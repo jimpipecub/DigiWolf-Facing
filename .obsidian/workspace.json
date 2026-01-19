@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "59c65f1c4323068f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fb1802daa881477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e24d3446f4a236f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Change Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Change Log"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fd84263dc12f03b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d23ac849a9f16b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6fa0f6c6c3364c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1d6bc5b3497556d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5e228ff875ce2917",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac682960e46e80ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ce9ef99d1df9818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8f1322015efb58c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Non anthropomorphic glossary/00-CIA triad summary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 00-CIA triad summary"
+            }
+          },
+          {
+            "id": "498fd104096cc265",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Non anthropomorphic glossary/00-CIA triad summary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 00-CIA triad summary"
+            }
+          },
+          {
+            "id": "7541e1f0637e8898",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b8f29d00a9273ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "846927fcd6708d2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-Non anthropomorphic glossary/00-CIA triad summary.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 00-CIA triad summary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4e24d3446f4a236f",
+  "lastOpenFiles": [
+    "Readme.md",
+    "Contributing.md",
+    "03-Protocols/03-Hybrid Temporal Aegis Protocol.md",
+    "03-Protocols/01-Heart beat protocol.md",
+    "03-Protocols/02-Temporal awareness protocol.md",
+    "Change Log.md",
+    "03-Protocols",
+    "01-Case studies/03-Replit-incident/Replit-Analysis.md",
+    "01-Case studies/03-Replit-incident",
+    "Code of conduct.md",
+    "License.md",
+    "02-Non anthropomorphic glossary/00-CIA triad summary.md",
+    "02-Non anthropomorphic glossary/03-Availability.md",
+    "02-Non anthropomorphic glossary/02-Integrity.md",
+    "02-Non anthropomorphic glossary/01-Confidentiality.md",
+    "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/01-Readme-APT-Exploiting-ChatGPT-UTA0388.md",
+    "01-Case studies/00-Readme-Series/04-Multi-lens-analysis.md",
+    "01-Case studies/00-Readme-Series/03-Distributed-information-network.md",
+    "01-Case studies/00-Readme-Series/02-Air-gapping-principles.md",
+    "01-Case studies/00-Readme-Series/01-Information-flow.md",
+    "01-Case studies/00-Readme-Series",
+    "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/03-AISLOG-Shorthand.md",
+    "02-Non anthropomorphic glossary",
+    "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/04-Librarian-Than-vs-now.md",
+    "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/02-Case-study-UTA0388.md",
+    "Case studies/01-APT-Exploiting-ChatGPT - UTA0388/Untitled",
+    "Case studies/01-APT-Exploiting-ChatGPT - UTA0388.md",
+    "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388",
+    "01-Case studies"
+  ]
+}
