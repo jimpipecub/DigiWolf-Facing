@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Case studies/00-Readme-Series/04-Multi-lens-analysis.md",
+                "file": "01-Case studies/00-Readme-Series/02-Air-gapping-principles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-Multi-lens-analysis"
+              "title": "02-Air-gapping-principles"
             }
           }
         ]
@@ -185,13 +185,15 @@
   },
   "active": "4e24d3446f4a236f",
   "lastOpenFiles": [
+    "01-Case studies/00-Readme-Series/01-Information-flow.md",
+    "03-Protocols/01-Heart beat protocol.md",
+    "03-Protocols/03-Hybrid Temporal Aegis Protocol.md",
+    "03-Protocols/02-Temporal awareness protocol.md",
+    "01-Case studies/00-Readme-Series/04-Multi-lens-analysis.md",
     "Change Log.md",
     "LICENSE",
     "Readme.md",
     "Contributing.md",
-    "03-Protocols/03-Hybrid Temporal Aegis Protocol.md",
-    "03-Protocols/01-Heart beat protocol.md",
-    "03-Protocols/02-Temporal awareness protocol.md",
     "03-Protocols",
     "01-Case studies/03-Replit-incident/Replit-Analysis.md",
     "01-Case studies/03-Replit-incident",
@@ -202,10 +204,8 @@
     "02-Non anthropomorphic glossary/02-Integrity.md",
     "02-Non anthropomorphic glossary/01-Confidentiality.md",
     "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/01-Readme-APT-Exploiting-ChatGPT-UTA0388.md",
-    "01-Case studies/00-Readme-Series/04-Multi-lens-analysis.md",
     "01-Case studies/00-Readme-Series/03-Distributed-information-network.md",
     "01-Case studies/00-Readme-Series/02-Air-gapping-principles.md",
-    "01-Case studies/00-Readme-Series/01-Information-flow.md",
     "01-Case studies/00-Readme-Series",
     "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/03-AISLOG-Shorthand.md",
     "02-Non anthropomorphic glossary",

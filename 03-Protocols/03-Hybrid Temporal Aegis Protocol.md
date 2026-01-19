@@ -56,3 +56,6 @@ High velocity alone is insufficient for AI attribution; CDN automation, pre-posi
 
 ---
 Vital note: This protocol assesses likelihood of AI enhancement, not attribution of specific tooling or actors.
+
+Designed to just be dropped into the Input/output stream.
+Not designed to be placed into personalization and instruction set space.
