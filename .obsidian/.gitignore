@@ -1,0 +1,32 @@
+# Ignore everything in this directory by default
+*
+
+# Allowlist — only these files/folders will be tracked
+!.gitignore
+!appearance.json
+!community-plugins.json
+!installed-plugins.json
+!snippets/
+!themes/
+!snippets/**
+!themes/**
+
+# Allow tracking a custom plugin folder if you have one (uncomment and set plugin-folder name)
+# !plugins/your-plugin-folder/
+
+# Still ignore plugin runtime data and node_modules inside plugins
+plugins/**/data/
+plugins/**/cache/
+plugins/**/node_modules/
+
+# Ignore Obsidian Sync / local runtime/state
+sync.json
+workspace
+workspace.json
+workspaces.json
+cache/
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
