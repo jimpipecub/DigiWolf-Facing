@@ -45,11 +45,9 @@ Run intelligence through orthogonal analytical lenses:
 - Systemic (Cascading risks)
 
 ## Evidence
-[[framework-failure]] - CIA Triad missed AI behavioral risk
-[[2025-10-05-dual-lens-comparison]] - Different lenses catch different signals
+
 
 ## Implementation
-[[turn-zero-generator-guide]] - How to configure lenses
 
 My lenses - Each lens is independent; no single lens is treated as authoritative.
 

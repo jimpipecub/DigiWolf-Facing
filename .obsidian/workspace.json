@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Change Log.md",
+                "file": "01-Case studies/00-Readme-Series/04-Multi-lens-analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Change Log"
+              "title": "04-Multi-lens-analysis"
             }
           }
         ]
@@ -185,13 +185,13 @@
   },
   "active": "4e24d3446f4a236f",
   "lastOpenFiles": [
+    "Change Log.md",
     "LICENSE",
     "Readme.md",
     "Contributing.md",
     "03-Protocols/03-Hybrid Temporal Aegis Protocol.md",
     "03-Protocols/01-Heart beat protocol.md",
     "03-Protocols/02-Temporal awareness protocol.md",
-    "Change Log.md",
     "03-Protocols",
     "01-Case studies/03-Replit-incident/Replit-Analysis.md",
     "01-Case studies/03-Replit-incident",
