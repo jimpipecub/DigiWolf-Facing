@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Non anthropomorphic glossary/03-Availability.md",
+                "file": "01-Case studies/00-Readme-Series/05-Human-in-the-loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Availability"
+              "title": "05-Human-in-the-loop"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "4e24d3446f4a236f",
   "lastOpenFiles": [
+    "02-Non anthropomorphic glossary/03-Availability.md",
+    "01-Case studies/00-Readme-Series/05-Human-in-the-loop.md",
     "02-Non anthropomorphic glossary/02-Integrity.md",
     "02-Non anthropomorphic glossary/01-Confidentiality.md",
     "02-Non anthropomorphic glossary/00-CIA triad summary.md",
@@ -203,7 +205,6 @@
     "01-Case studies/03-Replit-incident",
     "Code of conduct.md",
     "License.md",
-    "02-Non anthropomorphic glossary/03-Availability.md",
     "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/01-Readme-APT-Exploiting-ChatGPT-UTA0388.md",
     "01-Case studies/00-Readme-Series/03-Distributed-information-network.md",
     "01-Case studies/00-Readme-Series",
