@@ -62,3 +62,11 @@ The triad components are functionally independent but architecturally linked:
 > **Aegis Protocol Note:** A system may fail one property while maintaining the others (e.g., an encrypted database that is offline maintains confidentiality but lacks availability). Security governance requires the simultaneous verification of all three as distinct system invariants.
 
 ---
+
+**Practical Application: The UTA0388 Information Pipeline** The operational security architecture used in the UTA0388 case study provides a real-world example of these principles:
+
+- **Confidentiality:** Achieved via "Decentralized State" and "Abstraction as Firewall," preventing any single model from holding the complete picture.
+- **Integrity:** Maintained by the "Human-in-the-Loop Control," who acts as the certified transformation procedure, ensuring data is not corrupted between steps.
+- **Availability:** Ensured by the distributed nature of the network; if one model is unavailable, the human orchestrator can substitute another to complete the mission.
+
+- **See the full operational architecture:** `01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/01-Readme-APT-Exploiting-ChatGPT-UTA0388.md`
