@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operator profile.md",
+                "file": "01-Case studies/04-Jack-Clarke-Mysterious-Creature/03-AISLOG-Shorthand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operator profile"
+              "title": "03-AISLOG-Shorthand"
             }
           }
         ]
@@ -185,8 +185,24 @@
   },
   "active": "4e24d3446f4a236f",
   "lastOpenFiles": [
-    "03-Protocols/04-Custody Auditor.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/01-Readme-Jack-Clarke.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Risk-Assessment-Framework.png",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/04-Risk-Assessment-Framework.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/05-Risk-Assessment-Framework-Visual.md",
+    "01-Case studies/Risk-Assessment-Framework.png",
     "Operator profile.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/05-Meta-Threat-Analysis.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/04-Unified-Theory.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/03-Synthesis-Strategy.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/02-Technical-Analysis.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/01-Context-Evidence.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/03-AISLOG-Shorthand.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/02-Executive-Summary.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature",
+    "01-Case studies/Untitled",
+    "01-Case studies/Untitled.md",
+    "03-Protocols/04-Custody Auditor.md",
     "03-Protocols/02-Temporal awareness protocol.md",
     "01-Case studies/00-Readme-Series/02-Air-gapping-principles.md",
     "01-Case studies/00-Readme-Series/03-Distributed-information-network.md",
@@ -199,25 +215,12 @@
     "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/02-Case-study-UTA0388.md",
     "02-Non anthropomorphic glossary/03-Availability.md",
     "03-Protocols/03-Hybrid Temporal Aegis Protocol.md",
-    "03-Protocols/01-Heart beat protocol.md",
-    "01-Case studies/03-Replit-incident/Replit-Analysis.md",
-    "Change Log.md",
-    "Code of conduct.md",
-    "02-Non anthropomorphic glossary/02-Integrity.md",
-    "02-Non anthropomorphic glossary/01-Confidentiality.md",
-    "02-Non anthropomorphic glossary/00-CIA triad summary.md",
-    "Readme.md",
-    "SECURITY.md",
     "LICENSE",
-    "Contributing.md",
     "03-Protocols",
     "01-Case studies/03-Replit-incident",
-    "License.md",
     "01-Case studies/00-Readme-Series",
     "02-Non anthropomorphic glossary",
     "Case studies/01-APT-Exploiting-ChatGPT - UTA0388/Untitled",
-    "Case studies/01-APT-Exploiting-ChatGPT - UTA0388.md",
-    "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388",
-    "01-Case studies"
+    "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388"
   ]
 }
