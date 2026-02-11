@@ -11,14 +11,12 @@
             "id": "4e24d3446f4a236f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/03-Synthesis-Strategy.md",
-                "mode": "source",
-                "source": false
+                "file": "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Risk-Assessment-Framework.png"
               },
-              "icon": "lucide-file",
-              "title": "03-Synthesis-Strategy"
+              "icon": "lucide-image",
+              "title": "Risk-Assessment-Framework"
             }
           }
         ]
@@ -185,13 +183,13 @@
   },
   "active": "4e24d3446f4a236f",
   "lastOpenFiles": [
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/03-Synthesis-Strategy.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/02-Technical-Analysis.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/01-Context-Evidence.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/02-Executive-Summary.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/03-AISLOG-Shorthand.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/04-Risk-Assessment-Framework.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Risk-Assessment-Framework.png",
-    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/03-Synthesis-Strategy.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/04-Unified-Theory.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/05-Meta-Threat-Analysis.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/01-Readme-Jack-Clarke.md",
