@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Protocols/04-Custody Auditor.md",
+                "file": "Operator profile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-Custody Auditor"
+              "title": "Operator profile"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "4e24d3446f4a236f",
   "lastOpenFiles": [
-    "03-Protocols/02-Temporal awareness protocol.md",
     "03-Protocols/04-Custody Auditor.md",
+    "Operator profile.md",
+    "03-Protocols/02-Temporal awareness protocol.md",
     "01-Case studies/00-Readme-Series/02-Air-gapping-principles.md",
     "01-Case studies/00-Readme-Series/03-Distributed-information-network.md",
     "01-Case studies/00-Readme-Series/04-Multi-lens-analysis.md",
