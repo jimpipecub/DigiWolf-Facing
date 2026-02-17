@@ -11,12 +11,14 @@
             "id": "4e24d3446f4a236f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Risk-Assessment-Framework.png"
+                "file": "02-Non anthropomorphic glossary/04-Coherence.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Risk-Assessment-Framework"
+              "icon": "lucide-file",
+              "title": "04-Coherence"
             }
           }
         ]
@@ -183,16 +185,17 @@
   },
   "active": "4e24d3446f4a236f",
   "lastOpenFiles": [
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/03-AISLOG-Shorthand.md",
+    "02-Non anthropomorphic glossary/04-Coherence.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/01-Readme-Jack-Clarke.md",
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Risk-Assessment-Framework.png",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/03-Synthesis-Strategy.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/02-Technical-Analysis.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/01-Context-Evidence.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/02-Executive-Summary.md",
-    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/03-AISLOG-Shorthand.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/04-Risk-Assessment-Framework.md",
-    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Risk-Assessment-Framework.png",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/04-Unified-Theory.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/05-Meta-Threat-Analysis.md",
-    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/01-Readme-Jack-Clarke.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/05-Risk-Assessment-Framework-Visual.md",
     "01-Case studies/Risk-Assessment-Framework.png",
     "Operator profile.md",
