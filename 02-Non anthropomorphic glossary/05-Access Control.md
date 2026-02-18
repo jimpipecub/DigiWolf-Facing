@@ -100,16 +100,3 @@ This is the foundation of:
 A constraint‑evaluation system that determines whether a proposed state transition is permitted, based on the attributes of a subject, an object, and the environment. Access is not a property of a person but the outcome of a policy function applied to attribute vectors. All identities — human or non‑human — are subject descriptors evaluated symmetrically.
 
 ---
-
-If you want, we can continue building out the glossary in this style:
-
-- **Identity**
-- **Trust Boundary**
-- **State Transition**
-- **Constraint Saturation**
-- **Policy Drift**
-- **Reference Monitor**
-- **Control Plane**
-- **Epistemic Integrity**
-
-Just say which one you want to tackle next, and we’ll shape it into the same clean, non‑anthropomorphic form.
