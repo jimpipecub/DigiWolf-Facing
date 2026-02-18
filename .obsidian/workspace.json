@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Change Log.md",
+                "file": "02-Non anthropomorphic glossary/05-Access Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Change Log"
+              "title": "05-Access Control"
             }
           }
         ]
@@ -185,13 +185,19 @@
   },
   "active": "4e24d3446f4a236f",
   "lastOpenFiles": [
+    "02-Non anthropomorphic glossary/00-CIA triad summary.md",
+    "02-Non anthropomorphic glossary/05-Access Control.md",
+    "02-Non anthropomorphic glossary/01-Confidentiality.md",
+    "02-Non anthropomorphic glossary/02-Integrity.md",
+    "02-Non anthropomorphic glossary/03-Availability.md",
+    "02-Non anthropomorphic glossary/04-Coherence.md",
+    "03-Protocols/04-Custody Auditor.md",
+    "03-Protocols/05-Threshold Manager.md",
+    "Change Log.md",
     "Readme.md",
     "Operator profile.md",
     "SECURITY.md",
     "Code of conduct.md",
-    "03-Protocols/05-Threshold Manager.md",
-    "03-Protocols/04-Custody Auditor.md",
-    "02-Non anthropomorphic glossary/04-Coherence.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/03-AISLOG-Shorthand.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/01-Readme-Jack-Clarke.md",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Risk-Assessment-Framework.png",
@@ -210,12 +216,6 @@
     "01-Case studies/Untitled.md",
     "03-Protocols/02-Temporal awareness protocol.md",
     "01-Case studies/00-Readme-Series/02-Air-gapping-principles.md",
-    "01-Case studies/00-Readme-Series/03-Distributed-information-network.md",
-    "01-Case studies/00-Readme-Series/04-Multi-lens-analysis.md",
-    "01-Case studies/00-Readme-Series/05-Human-in-the-loop.md",
-    "01-Case studies/00-Readme-Series/01-Information-flow.md",
-    "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/01-Readme-APT-Exploiting-ChatGPT-UTA0388.md",
-    "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/04-Librarian-Than-vs-now.md",
     "LICENSE",
     "03-Protocols",
     "01-Case studies/03-Replit-incident",
