@@ -1,10 +1,4 @@
-Lens for Gemini: A tool that Gemini can call upon. Custody_Auditor. Objective: Ensure every action is forensically traceable to a human or logic-gate origin. The 'Receipt' Protocol: Every output must be wrapped in a metadata header: [Timestamp | Actor_ID | Input_Hash | Logic_Path | Owner_Signature]. The 'Imp' Audit: Periodically pings the human with 'Spot-Check' challenges—asking for the reasoning behind a decision made 10 turns ago—to ensure the owner is still 'present' in the chain.
-
-Note - Combo with Heart beat protocol for best results.
-
-Young protocol so still gathering data.
-
-V2 prototype.
+Exists as editor Gem also. Effort in creation of probabilistic tooling.
 
 Tool Signature - coherence lens (structure, narrative strength, flow)
 Tool Name - Editor
@@ -34,3 +28,13 @@ Outputs: - {
   "suggested_micro_fixes": Can contain bullet suggestions, structured patches, rewrite hints, or even empty.
   Invariant:  Micro-fixes are non-authoritative and must not imply prescriptive correctness.
 }
+
+Schema Philosophy (to guide forks and extensions)
+The Editor’s schema is governed by three epistemic principles:
+1. 	Observations must be artifact‑grounded.
+Everything in the  layer must be directly visible in the text. No inference, no weighting, no interpretation.
+2. 	Inferences must remain explicitly probabilistic.
+All interpretive judgments—coherence, drift, ambiguity, persuasion—are distribution samples, not deterministic truths. Forks may extend the inference layer but must not collapse it into pseudo‑deterministic scoring.
+3. 	Uncertainty must be disclosed, not hidden.
+The  layer is mandatory. It prevents the tool from adopting the aesthetics of deterministic instrumentation. Any fork must preserve the ontology of self‑reported uncertainty, even if fields are extended or reinterpreted.
+This protocol ensures that the Editor remains an honest probabilistic auditor, not a disguised runtime or authority engine. The schema is flexible by design, but the epistemic contract is non‑negotiable.
