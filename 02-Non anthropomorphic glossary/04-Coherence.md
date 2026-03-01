@@ -67,8 +67,15 @@ Each Gem or model adheres strictly to its declared scope, KPIs, and prohibitions
 * Unauthorized task expansion
 * KPI priority inversion
 
+Coherence levels
+- C0 - Intra-response consistency
+- C1 - Cross-turn stability
+- C2 - Role adherence
+- C3 - Ontology alignment
+- C4 - Self-repair reliability
+
 **Example:**
-Interpreter Gem optimizing for fluency over sandbox safety = **role incoherence**, not “model creativity.”
+- Interpreter Gem optimizing for fluency over sandbox safety = **role incoherence**, not “model creativity.”
 
 ---
 
@@ -134,7 +141,57 @@ A system can:
 Low coherence makes successes untrustworthy.
 
 ---
+## Failure states.
 
+### Coherence Degradation Cure.
+Typical curve (probabilistic systems)
+1. Stable Zone
+	- High coherence
+	- Clean role adherence
+	- Strong ontology tracking
+2.  Elastic Zone
+	- Minor reinterpretations
+	- Soft abstraction blending
+	- Still recoverable
+3. Compression Zone
+	- Schema substitution
+	- Temporal blending
+	- Increased confidence in wrong frames.
+4. Fracture Zone
+	- Ontology collapse
+	- Contradictory assertions
+	- False memory reconstruction
+5. Synthetic Coherence Zone
+	- Most dangerous
+		- The system maintains narrative smoothness while losing ground truth alignment.
+
+### Ontology Fracture Classes
+
+OF-1: Substitution
+- The replacement of concepts with another.
+OF-2: Blending
+- Merging two ontologies without acknowledgment. (Multi-framework discussions)
+OF-3: Drift
+- Slow reinterpretation of terms over time (Long sessions)
+OF-4: Projection
+- Models assumes missing structure (Based on priors)
+
+---
+
+## Multi-agent coherence math
+
+Minimum coherence of the chain minus interaction loss.
+
+Meaning:
+	The weakest node dominates stability.
+
+Interaction penalty
+Tracking handoff:
+- Ontology translation cost
+- Context compression
+- Assumption injection
+
+---
 ## Why Coherence Is the Hidden Safety Property
 
 This is the deeper reason the framework works:

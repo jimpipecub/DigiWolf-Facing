@@ -25,3 +25,8 @@ Adding released protocols and released case study to public repo.
 Will be working to get ready to establish this as a repo.
 
 Aspects to further work upon.
+
+2/27/2026
+
+Working on probabilistic tooling.
+Adding onto coherence entry.
