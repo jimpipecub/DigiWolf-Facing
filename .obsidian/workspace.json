@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Protocols/06-Editor Lens.md",
+                "file": "03-Protocols/06-Editor Lens Probabilistic Coherence Auditor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-Editor Lens"
+              "title": "06-Editor Lens Probabilistic Coherence Auditor"
             }
           }
         ]
@@ -186,7 +186,7 @@
   "active": "4e24d3446f4a236f",
   "lastOpenFiles": [
     "03-Protocols/04-Custody Auditor.md",
-    "03-Protocols/06-Editor Lens.md",
+    "03-Protocols/06-Editor Lens Probabilistic Coherence Auditor.md",
     "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/03-AISLOG-Shorthand.md",
     "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/01-Readme-APT-Exploiting-ChatGPT-UTA0388.md",
     "Operator profile.md",
