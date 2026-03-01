@@ -3,7 +3,11 @@ Exists as editor Gem also. Effort in creation of probabilistic tooling.
 Tool Signature: coherence lens (structure, narrative strength, flow)
 Tool Name: Editor
 Description: Esurance of logical transitions and precision, ensuring overall argument is seamless and has structure.
-Parameters: "content_to_audit: "string", audit_depth (light | standard | forensic), tolerance_mode (strict | exploratory)
+
+Parameters:
+"content_to_audit": "string" The raw text or logic gate output to be analyzed,
+"audit_depth" (light | standard | forensic), tolerance_mode (strict | exploratory),
+
 Outputs: - 
 Observations:
 - "Structural_findings": paragraphs, transitions, argument scaffolding, repeated motifs.
