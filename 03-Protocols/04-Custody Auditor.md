@@ -3,34 +3,3 @@ Lens for Gemini: A tool that Gemini can call upon. Custody_Auditor. Objective: E
 Note - Combo with Heart beat protocol for best results.
 
 Young protocol so still gathering data.
-
-V2 prototype.
-
-Tool Signature - coherence lens (structure, narrative strength, flow)
-Tool Name - Editor
-Description - Ensurance of logical transitions and precision, ensuring overall argument is seamless and has structure.
-Parameters { "content_to_audit: "string", audit_depth (light | standard | forensic), tolerance_mode (strict | exploratory) }
-Outputs: - {
-  "observations": {
-    "structural_findings": paragraphs, transitions, argument scaffolding, repeated motifs.
-    "flow_breakpoints": abrupt shifts, dropped threads, unresolved references, temporal jumps.
-    "surface_anomalies": tense drift, pronoun ambiguity, duplicated logic, inconsistent
-    terminology.
-  },
-  "inferences": {
-    "coherence_estimate": allow ranges, bands, qualitative labels, or null.
-    "narrative_stability": allow enums, free text, or omitted entirely.
-    "drift_signals": allow structured or unstructured lists.
-    "ambiguity_risks": allow severity bands or raw notes.
-    "persuasion_risks": allow heuristic flags or descriptive text.
-  },
-  "uncertainty": {
-    "samples_drawn": integer or null, but never implied to be >1 unless explicitly sampled.
-    "finding_stability": “verified”, “unverified”, or omitted; forks may add more granularity.
-    "confidence_basis": free text describing heuristics, cues, or model priors.
-    "variance_expectation": "allow enums (“low/medium/high”), ranges, or descriptive text..
-    "output_type": must remain “probabilistic_estimate” or a descendant of that ontology.
-  },
-  "suggested_micro_fixes": Can contain bullet suggestions, structured patches, rewrite hints, or even empty.
-  Invariant:  Micro-fixes are non-authoritative and must not imply prescriptive correctness.
-}

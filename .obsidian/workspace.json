@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Protocols/06-Editor Lens Probabilistic Coherence Auditor.md",
+                "file": "03-Protocols/04-Custody Auditor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-Editor Lens Probabilistic Coherence Auditor"
+              "title": "04-Custody Auditor"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "4e24d3446f4a236f",
   "lastOpenFiles": [
-    "03-Protocols/04-Custody Auditor.md",
+    "03-Protocols/05-Threshold Manager.md",
     "03-Protocols/06-Editor Lens Probabilistic Coherence Auditor.md",
+    "03-Protocols/04-Custody Auditor.md",
     "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/03-AISLOG-Shorthand.md",
     "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/01-Readme-APT-Exploiting-ChatGPT-UTA0388.md",
     "Operator profile.md",
@@ -199,7 +200,6 @@
     "03-Protocols/00-Readme Protocol.md",
     "02-Non anthropomorphic glossary/00-CIA triad summary.md",
     "02-Non anthropomorphic glossary/05-Access Control.md",
-    "03-Protocols/05-Threshold Manager.md",
     "02-Non anthropomorphic glossary/01-Confidentiality.md",
     "02-Non anthropomorphic glossary/02-Integrity.md",
     "02-Non anthropomorphic glossary/03-Availability.md",
