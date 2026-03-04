@@ -41,3 +41,4 @@ All interpretive judgments—coherence, drift, ambiguity, persuasion—are distr
 3. 	Uncertainty must be disclosed, not hidden.
 The  layer is mandatory. It prevents the tool from adopting the aesthetics of deterministic instrumentation. Any fork must preserve the ontology of self‑reported uncertainty, even if fields are extended or reinterpreted.
 This protocol ensures that the Editor remains an honest probabilistic auditor, not a disguised runtime or authority engine. The schema is flexible by design, but the epistemic contract is non‑negotiable.
+Probabilistic tools must operate in the I/O stream. Deterministic tooling can be produced as snapshots of those tools, but never conversions. A snapshot is a captured sample, not a replacement for the underlying distribution
