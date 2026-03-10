@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Protocols/Samples/01-Heartbeat examples..md",
+                "file": "03-Protocols/01-Heart beat protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Heartbeat examples."
+              "title": "01-Heart beat protocol"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "4e24d3446f4a236f",
   "lastOpenFiles": [
-    "Change Log.md",
     "03-Protocols/Samples/01-Heartbeat examples..md",
+    "Change Log.md",
     "03-Protocols/Samples",
     "03-Protocols/00-Readme Protocol.md",
     "03-Protocols/01-Heart beat protocol.md",
