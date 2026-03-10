@@ -30,3 +30,15 @@ Aspects to further work upon.
 
 Working on probabilistic tooling.
 Adding onto coherence entry.
+
+3/9/2026
+
+Added Aegis protocol to the protocol list.
+
+Added Heartbeat protocol as a Claude Skill.
+
+Added Temporal awareness protocol as a Claude Skill.
+
+3/10/2026
+
+During exploration of concepts captured heartbeat data from Manus, an Agent AI.
