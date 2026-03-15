@@ -1,4 +1,3 @@
-## **Heartbeat Monitoring (v1.1)**
 
 Maintain liveness signal throughout long sessions:
 
