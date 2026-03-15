@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Protocols/01-Heartbeat protocol/Symbolism in constraint mapping.md",
+                "file": "03-Protocols/01-Heartbeat protocol/First-Principles formalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Symbolism in constraint mapping"
+              "title": "First-Principles formalization"
             }
           }
         ]
@@ -185,16 +185,16 @@
   },
   "active": "4e24d3446f4a236f",
   "lastOpenFiles": [
-    "03-Protocols/01-Heartbeat protocol/First-Principles formalization.md",
     "03-Protocols/01-Heartbeat protocol/Symbolism in constraint mapping.md",
+    "03-Protocols/01-Heartbeat protocol/First-Principles formalization.md",
+    "03-Protocols/01-Heartbeat protocol/Heart beat protocol - v1.1.md",
+    "03-Protocols/01-Heartbeat protocol/Heart beat protocol - V2.md",
+    "03-Protocols/01-Heartbeat protocol/Samples - 01.md",
     "02-Non anthropomorphic glossary/10-Measurement.md",
     "02-Non anthropomorphic glossary/09-Constraint Mapping.md",
     "02-Non anthropomorphic glossary/08-Invariant Structures.md",
     "02-Non anthropomorphic glossary/07-Information Encoding.md",
     "02-Non anthropomorphic glossary/06-Relational Differentiation.md",
-    "03-Protocols/01-Heartbeat protocol/Heart beat protocol - V2.md",
-    "03-Protocols/01-Heartbeat protocol/Heart beat protocol - v1.1.md",
-    "03-Protocols/01-Heartbeat protocol/Samples - 01.md",
     "02-Non anthropomorphic glossary/00-CIA triad summary.md",
     "03-Protocols/01-Heartbeat protocol",
     "02-Non anthropomorphic glossary/03-Availability.md",

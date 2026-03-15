@@ -9,7 +9,7 @@ The Heartbeat Health Index (H) is a first‑principles reliability metric that e
 - Anomaly (A) captures structural deviations from those encoded patterns, signaling perturbations in the system’s invariant structures.
 - Uncertainty (U) quantifies gaps or variability in the system’s encoded operational manifold, including epistemic, systemic, and governance‑level incompleteness.
 
-Together, these components provide a non‑anthropomorphic, system‑native view of AI reliability. A high Health Index indicates strong invariant structures, low structural perturbation, and minimal encoding deficits. This framework enables governance teams, safety engineers, and operators to assess AI behavior using measurable state transitions and constraint mappings—avoiding subjective interpretations and grounding oversight in verifiable system properties.
+Together, these components provide a non‑anthropomorphic, system‑native view of AI reliability. A high Health Index indicates strong invariant structures, low structural perturbation, and minimal encoding deficits. This framework enables governance teams, safety engineers, and operators to assess AI behavior using measurable state transitions and constraint mappings. Avoiding subjective interpretations and grounding oversight in verifiable system properties.
 
 
 ---
