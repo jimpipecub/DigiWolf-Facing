@@ -1,7 +1,7 @@
 **Heartbeat Health index** (H) is a metric designed to quantify the operational state and reliability of an AI system. A formalization due to probabilistic nature of the tool.
 
 ---
-## Executive Summary — Heartbeat Health Index (H)
+## Executive Summary - Heartbeat Health Index (H)
 
 The Heartbeat Health Index (H) is a first‑principles reliability metric that evaluates an AI system’s operational integrity using only observable system dynamics, not cognitive or anthropomorphic proxies. That formalizes system health as the interaction of three structural properties: Stability (S), Anomaly (A), and Uncertainty (U), combined through the relationship:
 
