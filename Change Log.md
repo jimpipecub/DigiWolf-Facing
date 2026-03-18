@@ -42,3 +42,14 @@ Added Temporal awareness protocol as a Claude Skill.
 3/10/2026
 
 During exploration of concepts captured heartbeat data from Manus, an Agent AI.
+
+3/15/2026
+
+Revamped the Heartbeat protocol section into a directory.
+Added new terms onto the glossary.
+
+3/17/2026
+
+Added halt results to heartbeat protocol under refinements.
+Planning on adding first principles to custody auditor too.
+Adding Imp audit to public vault.

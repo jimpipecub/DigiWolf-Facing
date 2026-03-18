@@ -1,5 +1,15 @@
-# Aegis-Protocol: Execution-time instructions.
+01- Heartbeat protocol
 
-A suite of deterministic logic gates and semantic lenses designed to work with models at the moment of execution. Runtime probabilistic tools for AI systems.
+Created in the past in review of the Replit case study.
 
-Will be worked on when able.
+02- Temporal awareness protocol
+
+Creation was due to temporal vagueness. The model kept having temporal issues. Especially due to cut off date of it's training data.
+
+03 - Hybrid Temporal Aegis Protocol
+
+Created in the past to check to see if an cybersecurity incident was an AI augmented attack.
+
+04 - Custody Auditor
+
+Created due 
