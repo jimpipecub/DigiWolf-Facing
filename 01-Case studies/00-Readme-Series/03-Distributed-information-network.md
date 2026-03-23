@@ -1,6 +1,6 @@
 #### **Concept (anchor definition)**
 
-A distributed analytical framework that leverages multiple AI models and human interpretive layers to generate diverse perspectives while maintaining structural coherence. Din uses **natural air gaps**—differences between model architectures, data access, and interpretive styles—to prevent analytical convergence and bias.
+A distributed information framework that leverages multiple AI models and human interpretive layers to generate diverse perspectives while maintaining structural coherence. [DIN] uses **natural [air gaps]**—differences between model architectures, data access, and interpretive styles—to prevent analytical convergence and bias.
 
 ---
 
@@ -21,7 +21,6 @@ A distributed analytical framework that leverages multiple AI models and human i
 
 #### **Architecture (linkage layer)**
 
-
 Din operates as a **multi-node orchestration lattice**, where each model node maintains partial isolation while participating in guided synthesis through Turn Zero initialization and air-gapped channeling protocols.
 
 ---
@@ -32,11 +31,11 @@ Each case study demonstrates a **Din orchestration event**, where multiple model
 
 ---
 
-# Blue Team DIN: Defensive Intelligence Network
+# Blue Team [DIN]: Defensive Intelligence Network
 
 ## The Asymmetry Problem
 
-Attackers like UTA0388 have automated their operations:
+Attackers like [UTA0388] have automated their operations:
 - AI-powered phishing at scale
 - Distributed infrastructure
 - Policy evasion techniques
@@ -50,11 +49,11 @@ Defenders are still largely manual:
 
 **This asymmetry is unsustainable.**
 
-## Our Solution: Positive DIN
+## Our Solution: Positive [DIN]
 
 A Defensive Intelligence Network built on:
 
-### 1. Transparent Automation
+### 1. Transparent semi automation
 - Open-source orchestration
 - Auditable decision chains
 - Explainable intelligence outputs
@@ -90,4 +89,4 @@ We commit to:
 To fight an AI-driven threat, you need an AI-powered defense, 
 guided by human strategic oversight."*
 
-— Manus, on the necessity of Blue Team DIN
+— [Manus], on the necessity of Blue Team [DIN]

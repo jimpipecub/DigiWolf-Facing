@@ -4,13 +4,13 @@
 
 **Source Context:** Distributed Information Networks (DIN) / SLA Governance
 
-**Status:** Polished for [Chronicler]
+**Status:** Polished for [[Chronicler]]
 
 ---
 
 ### Non-Anthropomorphic Label: Authorized Access Continuity
 
-Availability is the system property by which information and its processing mechanisms remain reachable and usable within defined temporal bounds by authorized entities. It is a product of **architectural resilience** and **control execution**, independent of system "intent" or agency.
+[[Availability]] is the system property by which information and its processing mechanisms remain reachable and usable within defined temporal bounds by authorized entities. It is a product of **architectural resilience** and **control execution**, independent of system "intent" or agency.
 
 ### 1. Scope & Temporal Precision
 
@@ -44,10 +44,9 @@ Availability is an auditable metric derived from the relationship between uptime
 |**Availability (Rate)**|$MTBF / (MTBF + MTTR)$|Links reliability ($MTBF$) with recovery efficiency ($MTTR$).|
 |**RTO / RPO**|Recovery Time / Recovery Point|Defines the speed of restoration vs. acceptable data loss.|
 
-> **Contextual Benchmarks:** > * **99.9%:** $\approx 43$ minutes/month downtime (Standard Business).
-> 
-> - **99.999%:** $\approx 5$ minutes/year downtime (Mission-Critical/Financial).
->     
+**Contextual Benchmarks:** > * **99.9%:** $\approx 43$ minutes/month downtime (Standard Business).
+ 
+ - **99.999%:** $\approx 5$ minutes/year downtime (Mission-Critical/Financial).  
 
 ### 4. Distributed Systems & The CAP Constraint
 
@@ -73,9 +72,9 @@ Loss occurs when authorized entities cannot obtain usable access within threshol
 
 ### Integrity/Reliability Clarification
 
-- **Availability vs. Reliability:** Availability measures _access continuity_ (Is it there?); Reliability measures _consistency of correct behavior_ (Does it work right?).
+- **Availability vs. [[Reliability]]:** Availability measures _access continuity_ (Is it there?); Reliability measures _consistency of correct behavior_ (Does it work right?).
     
-- **Availability vs. Integrity:** A system may be fully available but serve corrupted data; conversely, it may be unavailable while its stored data remains perfectly intact.
+- **Availability vs. [[Integrity]]:** A system may be fully available but serve corrupted data; conversely, it may be unavailable while its stored data remains perfectly intact.
     
 
 ---

@@ -1,4 +1,4 @@
-This protocol establishes a defensive and ethical framework for all interactions, prioritizing safety, transparency, and human oversight.
+The [[Aegis protocol]] establishes a defensive and ethical framework for all interactions, prioritizing safety, transparency, and human oversight.
 
 ## Core Principles
 

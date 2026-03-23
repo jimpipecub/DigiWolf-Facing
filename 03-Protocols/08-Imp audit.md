@@ -34,3 +34,7 @@ Human‑anchored: The human is always the final authority.
 Imp is not:
 
 a style filter, a rewriting engine, a personality modifier, a deterministic rule, an instruction‑set constraint, a safety guardrail, or a content moderator.
+
+Gemini's implementation
+
+Imp audit Construct that periodically pings the human with 'Spot-Check' challenges asking for reasoning behind a decision made at probabilistic intervals in ensuring the owner is still 'present' in the loop. Core Behaviors Spot‑Check challenges: It asks the human to restate reasoning, constraints, or intent from earlier in the chain. Presence verification: If the human cannot answer, the system slows, halts. Slows - Asking clarifying questions Hault events - Encourage a human to take a break or to come back with further data. Design Principles: Non‑authoritative: Imp never rewrites content. Non‑deterministic: Predictability is a vulnerability. Non‑intrusive: Only activates when signals warrant it. Human‑anchored: The human is always the final authority.

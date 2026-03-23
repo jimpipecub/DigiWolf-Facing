@@ -21,13 +21,13 @@ awareness during evaluation.
 
 ### Models Consulted
 
-| Node | Model/System               | Role                 | Primary Contribution                               | Analytical Focus                                |
-| ---- | -------------------------- | -------------------- | -------------------------------------------------- | ----------------------------------------------- |
-| A    | Librarian Gem & Perplexity | Context & Evidence   | Source documentation, timeline, political conflict | Intelligence gathering (47 sources)             |
-| B    | Gemini                     | Technical Analysis   | 5-domain capability assessment                     | Safety methodology gaps, technical implications |
-| C    | Claude                     | Synthesis & Strategy | Multi-model consensus, framework validation        | Strategic positioning, innovation proposal      |
-| D    | Manus                      | Companion            | Designing Risk Assessment Framework                | Framework in potential deployment.              |
-| E    | Chronicle                  | Shorthand            | Compression                                        | Assists of organization of notes.               |
+| Node | Model/System                       | Role                 | Primary Contribution                               | Analytical Focus                                |
+| ---- | ---------------------------------- | -------------------- | -------------------------------------------------- | ----------------------------------------------- |
+| A    | [[Librarian Gem]] & [[Perplexity]] | Context & Evidence   | Source documentation, timeline, political conflict | Intelligence gathering (47 sources)             |
+| B    | [[Gemini]]                         | Technical Analysis   | 5-domain capability assessment                     | Safety methodology gaps, technical implications |
+| C    | [[Claude]]                         | Synthesis & Strategy | Multi-model consensus, framework validation        | Strategic positioning, innovation proposal      |
+| D    | [[Manus]]                          | Companion            | Designing Risk Assessment Framework                | Framework in potential deployment.              |
+| E    | [[Chronicler]]                     | Shorthand            | Compression                                        | Assists of organization of notes.               |
 
 ### Information Flow
 
@@ -72,15 +72,15 @@ evaluation leakage findings.
 
 ## Document Structure
 
-- **Executive-Summary.md**
 - **Full-Analysis Directory**
-  - Section I: Multi-Model Consensus Analysis
-  - Section II: DIN Framework Validation
-  - Section III: Beyond Blind Testing (Innovation)
-  - Section IV: Strategic Positioning (Third Way)
-  - Section V: Actionable Recommendations
-  - Section VI: Conclusion
-  - Section VII: Meta-Analysis & Quality Assessment
+	- [[01-Context-Evidence]]
+	- [[02-Technical-Analysis]]
+	- [[03-Synthesis-Strategy]]
+	- [[04-Unified-Theory]]
+- Shorthand expression.
+	- [[03-AISLOG-Shorthand]]
+- Framework suggestion.
+	- [[04-Risk-Assessment-Framework]]
 
 ---
 

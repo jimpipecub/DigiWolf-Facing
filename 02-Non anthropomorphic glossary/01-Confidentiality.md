@@ -10,7 +10,7 @@
 
 ### Definition
 
-Confidentiality is a system‑level property that enforces constraints on the direction and conditions of data propagation. It guarantees that information traverses only predefined channels to entities possessing formally verified authorization tokens. By treating confidentiality as a structural constraint rather than a discretionary choice, unauthorized transmission paths are systematically blocked at the architectural level.
+[[Confidentiality]] is a system‑level property that enforces constraints on the direction and conditions of data propagation. It guarantees that information traverses only predefined channels to entities possessing formally verified authorization tokens. By treating confidentiality as a structural constraint rather than a discretionary choice, unauthorized transmission paths are systematically blocked at the architectural level.
 
 ### 1. Formal Underpinning: Information‑Flow Control (IFC)
 
@@ -25,7 +25,7 @@ IFC provides the mathematical foundation for confidentiality by modeling data mo
 
 ### 2. Integration with Least-Privilege Design
 
-Within the IFC framework, the Principle of Least Privilege is expressed as a **graph-theoretic constraint** on the system’s control-flow graph $G = (V, E)$:
+Within the IFC framework, the [[Principle of Least Privilege]] is expressed as a **graph-theoretic constraint** on the system’s control-flow graph $G = (V, E)$:
 
 - **Node Placement:** Subjects ($S$) and Objects ($O$) are placed at vertices ($V$) only where their functional specifications explicitly require presence.
     
@@ -45,6 +45,6 @@ The enforcement of these constraints is moved from the application layer to the 
 3. **Hybrid Monitors:** A combination of both to ensure zero-latency enforcement without sacrificing coverage.
     
 
-> **Result:** A system adhering to these constraints prevents data exfiltration by construction. For example, a process labeled $H$ cannot inadvertently write to a public log labeled $L$; the IFC monitor will reject the flow regardless of the process's internal logic or user credentials.
+**Result:** A system adhering to these constraints prevents data exfiltration by construction. For example, a process labeled $H$ cannot inadvertently write to a public log labeled $L$; the IFC monitor will reject the flow regardless of the process's internal logic or user credentials.
 
 ---

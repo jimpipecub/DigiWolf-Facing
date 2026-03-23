@@ -53,3 +53,19 @@ Added new terms onto the glossary.
 Added halt results to heartbeat protocol under refinements.
 Planning on adding first principles to custody auditor too.
 Adding Imp audit to public vault.
+
+3/20/2026
+
+Created Threading to assist with human on the rails multimodal work. Currently resides as a Claude skill.
+
+3/22/2026
+
+Planning to clean up Temporal awareness protocol.
+
+Noted that personalization is underrated for load-bearing governance constraints.
+
+Also working on the ROME incident case study.
+
+3/23/2026
+
+Working to create links between the Mds. Added stability to glossary.

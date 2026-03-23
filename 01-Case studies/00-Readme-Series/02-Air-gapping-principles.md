@@ -1,6 +1,6 @@
 Air gaps as with Cybersecurity is vital with AI as well.
 
-**Why Air-Gapping Matters**
+**Why [Air-Gaps] Matters**
 
 - Air-gapping isolates domains (e.g., Financial, Threat Intel, Legal) in dedicated “sealed execution domains” with their **own context scope, baselines, and behavior monitoring**.
     
@@ -33,3 +33,8 @@ Each domain operates independently. The orchestration layer only facilitates **
 _Temporal Note:_  
 
 While air-gapping is a mature cybersecurity control, its application to AI orchestration is still evolving (2024–present). The principles are stable; tooling and automation patterns are not yet standardized._
+
+Presses the need in studying Python.
+
+Tool requirement for the deterministic side.
+Orchestration tooling.

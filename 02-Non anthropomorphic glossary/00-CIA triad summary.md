@@ -4,13 +4,13 @@
 
 **Project:** Formal System Specifications
 
-**Status:** Integrated Executive Summary for [Chronicler]
+**Status:** Integrated Executive Summary for [[Chronicler]]
 
 ---
 
 ### Executive Overview
 
-This summary synthesizes the three core properties of information security—**Confidentiality, Integrity, and Availability**—into a unified, non-anthropomorphic framework. By shifting the focus from human intent (trust, honesty, effort) to system mechanics (flow control, state transitions, and access continuity), we establish a verifiable and auditable security posture.
+This summary synthesizes the three core properties of information security. **[[Confidentiality]], [[Integrity]], and [[Availability]]**—into a unified, non-anthropomorphic framework. By shifting the focus from human intent ([[Trust]], [[Honesty]], [[Effort]]) to system mechanics ([[Flow control]], [[State transitions]], and [[access continuity]]), we establish a verifiable and auditable security posture.
 
 ---
 
@@ -38,7 +38,7 @@ Integrity is the property ensuring that system state remains consistent and chan
 
 ### 3. Availability: Authorized Access Continuity
 
-Availability is the reachability and usability of information within defined temporal bounds. It is a product of **architectural resilience** and resource management.
+03-Availability is the reachability and usability of information within defined temporal bounds. It is a product of **architectural resilience** and resource management.
 
 - **Mechanism:** Redundancy, failover, and graceful degradation.
     
@@ -53,20 +53,20 @@ Availability is the reachability and usability of information within defined tem
 
 The triad components are functionally independent but architecturally linked:
 
-|**property**|**Primary Failure Mode**|**Secondary Impact**|
-|---|---|---|
-|**Confidentiality**|Unauthorized Information Flow|Data Exfiltration|
-|**Integrity**|Unauthorized State Transition|System Corruption / Poisoning|
-|**Availability**|Access Continuity Breach|Service Denial / Time-out|
+| **property**        | **Primary Failure Mode**      | **Secondary Impact**          |
+| ------------------- | ----------------------------- | ----------------------------- |
+| **Confidentiality** | Unauthorized Information Flow | Data Exfiltration             |
+| **Integrity**       | Unauthorized State Transition | System Corruption / Poisoning |
+| **Availability**    | Access Continuity Breach      | Service Denial / Time-out     |
 
-> **Aegis Protocol Note:** A system may fail one property while maintaining the others (e.g., an encrypted database that is offline maintains confidentiality but lacks availability). Security governance requires the simultaneous verification of all three as distinct system invariants.
+**[[Aegis protocol]] Note:** A system may fail one property while maintaining the others (e.g., an encrypted database that is offline maintains confidentiality but lacks availability). Security governance requires the simultaneous verification of all three as distinct system invariants.
 
 ---
 
-**Practical Application: The UTA0388 Information Pipeline** The operational security architecture used in the UTA0388 case study provides a real-world example of these principles:
+**Practical Application: The [[02-Case-study-UTA0388]] Information Pipeline** The operational security architecture used in the UTA0388 case study provides a real-world example of these principles:
 
 - **Confidentiality:** Achieved via "Decentralized State" and "Abstraction as Firewall," preventing any single model from holding the complete picture.
 - **Integrity:** Maintained by the "Human-in-the-Loop Control," who acts as the certified transformation procedure, ensuring data is not corrupted between steps.
 - **Availability:** Ensured by the distributed nature of the network; if one model is unavailable, the human orchestrator can substitute another to complete the mission.
 
-- **See the full operational architecture:** `01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/01-Readme-APT-Exploiting-ChatGPT-UTA0388.md`
+- **See the full operational architecture:** [[01-Readme-APT-Exploiting-ChatGPT-UTA0388]]

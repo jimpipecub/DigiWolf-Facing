@@ -10,13 +10,13 @@
 
 ### Definition
 
-Integrity is the system property ensuring that information state remains consistent and verifiable across storage, processing, and transmission. It dictates that state changes occur exclusively through a defined set of authorized and properly controlled transformations. In this framework, integrity is not a measure of "truth," but of **adherence to a specified transition graph**.
+[[Integrity]] is the system property ensuring that information state remains consistent and verifiable across storage, processing, and transmission. It dictates that state changes occur exclusively through a defined set of authorized and properly controlled transformations. In this framework, integrity is not a measure of "truth," but of **adherence to a specified transition graph**.
 
 ### 1. Formal Models of Integrity
 
 To remove human discretion, integrity is enforced through structural models that constrain how data of varying quality or "trustworthiness" can interact.
 
-- Biba Integrity Model (The Dual of Bell-Lapadula):
+- [[Biba Integrity Model]] (The Dual of Bell-Lapadula):
     
     This model utilizes an integrity lattice to prevent "contamination." It enforces two primary rules:
     
@@ -24,7 +24,7 @@ To remove human discretion, integrity is enforced through structural models that
         
     - **No-Read-Down:** A subject at a higher integrity level cannot read data from a lower integrity level (to prevent "dirty" data from influencing high-integrity processes).
         
-- Clark-Wilson Model (Transaction-Based):
+- [[Clark-Wilson Model]] (Transaction-Based):
     
     This model focuses on Constrained Data Items (CDIs) and Transformation Procedures (TPs). Integrity is maintained by ensuring that CDIs can only be manipulated by a certified set of TPs. This frames integrity as a property of the process graph rather than simple user permissions.
     
@@ -38,7 +38,7 @@ Integrity mechanisms are classified by their temporal relationship to a state ch
 | **Preventive Constraints** | Block unauthorized transitions before they occur by enforcing the state-machine rules. | Strict Access Control, Type-safe languages, Hardware-level memory protection. |
 | **Detective Mechanisms**   | Identify when a transition has violated a system invariant after the fact.             | Cryptographic hashes ($H(m)$), Checksums, Digital Signatures.                 |
 
-> **System Invariant:** A condition that must remain true for the system to be considered in a valid state. A cryptographic hash mismatch is a direct, detectable break of a system invariant, signaling an automatic integrity failure independent of the data's perceived utility.
+**[[System Invariant]]:** A condition that must remain true for the system to be considered in a valid state. A cryptographic hash mismatch is a direct, detectable break of a system invariant, signaling an automatic integrity failure independent of the data's perceived utility.
 
 ### 3. Data Provenance and Lineage
 

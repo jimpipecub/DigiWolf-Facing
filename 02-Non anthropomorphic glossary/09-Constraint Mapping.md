@@ -1,4 +1,4 @@
-**Constraint mapping** is the structural process by which a system encodes, applies, and propagates the rules, limits, and allowable transitions that govern its behavior. It is not decision‑making, interpretation, or reasoning. It is the **mechanical alignment** of system states with the constraints that define the system’s operational manifold.
+**[Constraint mapping]** is the structural process by which a system encodes, applies, and propagates the rules, limits, and allowable transitions that govern its behavior. It is not decision‑making, interpretation, or reasoning. It is the **mechanical alignment** of system states with the constraints that define the system’s operational manifold.
 
 Constraint mapping determines _what transitions are possible_, _what states are valid_, and _how the system must respond_ under specific conditions, purely through encoded structure.
 
