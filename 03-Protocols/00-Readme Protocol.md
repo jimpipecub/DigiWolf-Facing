@@ -33,7 +33,7 @@ Invariants towards the end user and towards the system.
 
 Previously an subroutine of a protocol. Designed to assist in preventing rubber stamping.
 
-[[09-Recall]]
+[[09-Recall v2]]
 
 Guided RAG call to assist models in the sources that they pull from.
 

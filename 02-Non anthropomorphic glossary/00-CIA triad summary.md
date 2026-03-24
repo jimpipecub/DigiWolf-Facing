@@ -18,7 +18,7 @@ This summary synthesizes the three core properties of information security. **[[
 
 Confidentiality is a structural constraint on data propagation. It is enforced through **Information-Flow Control (IFC)** and security lattices rather than user discretion.
 
-- **Mechanism:** Bell-LaPadula model ($No-Read-Up / No-Write-Down$).
+- **Mechanism:** [[Bell-LaPadula model]] ($No-Read-Up / No-Write-Down$).
     
 - **Enforcement:** Static analysis and runtime monitors block unauthorized paths in the control-flow graph.
     
@@ -53,7 +53,7 @@ Integrity is the property ensuring that system state remains consistent and chan
 
 The triad components are functionally independent but architecturally linked:
 
-| **property**        | **Primary Failure Mode**      | **Secondary Impact**          |
+| **Property**        | **Primary Failure Mode**      | **Secondary Impact**          |
 | ------------------- | ----------------------------- | ----------------------------- |
 | **Confidentiality** | Unauthorized Information Flow | Data Exfiltration             |
 | **Integrity**       | Unauthorized State Transition | System Corruption / Poisoning |
