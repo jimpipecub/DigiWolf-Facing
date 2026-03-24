@@ -25,14 +25,10 @@
             "id": "497d4b04ac8a9be3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Protocols/09-Recall v2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09-Recall v2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Protocols/09-Recall v2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 09-Recall v2"
+              "title": "Backlinks"
             }
           },
           {
@@ -199,13 +194,13 @@
   },
   "active": "497d4b04ac8a9be3",
   "lastOpenFiles": [
+    "03-Protocols/09-Recall v2.md",
     "02-Non anthropomorphic glossary/02-Integrity.md",
     "01-Case studies/00-Readme-Series/01-Information-flow.md",
     "01-Case studies/00-Readme-Series/05-Human-in-the-loop.md",
     "01-Case studies/05-Rome incident/03-Prior mapping.md",
     "03-Protocols/00-Readme Protocol.md",
     "03-Protocols/02-Temporal awareness protocol.md",
-    "03-Protocols/09-Recall v2.md",
     "01-Case studies/00-Readme-Series/02-Air-gapping-principles.md",
     "02-Non anthropomorphic glossary/01-Confidentiality.md",
     "02-Non anthropomorphic glossary/00-CIA triad summary.md",
