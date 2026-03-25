@@ -22,7 +22,7 @@ Each domain operates independently. The orchestration layer only facilitates **
 
 **Practical Implementation Notes**
 
-- Orchestration layer is the highest-value target—require **human-in-the-loop authorization, immutable logging, and post-hoc auditability**.
+- Orchestration layer is the highest-value target—require **[[human-in-the-loop]] authorization, immutable logging, and post-hoc auditability**.
     
 - Cross-domain flows should use **schema-validated message queues, not direct calls**.
     

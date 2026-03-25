@@ -18,7 +18,7 @@ IFC provides the mathematical foundation for confidentiality by modeling data mo
 
 - **Lattice-Based Security Domains:** All data and subjects are assigned immutable security labels (e.g., $H$ for High, $L$ for Low). These labels form a **security lattice**—a partial order that dictates permissible flow directions.
     
-- **The Non-Discretionary Rule ([[Bell‑LaPadula]]):** Flow is restricted by the lattice order. A subject at level $L$ may only transmit data to objects at level $L'$ where $L' \geq L$. Consequently, any "Write-Down" from $H$ to $L$ is physically or logically prohibited, eliminating reliance on human intent.
+- **The Non-Discretionary Rule ([[Bell-LaPadula]]):** Flow is restricted by the lattice order. A subject at level $L$ may only transmit data to objects at level $L'$ where $L' \geq L$. Consequently, any "Write-Down" from $H$ to $L$ is physically or logically prohibited, eliminating reliance on human intent.
     
 - **Non‑Interference:** To prevent side-channel leaks, the system ensures that outputs observable by a Low subject remains statistically independent of High subject inputs. This ensures the existence of sensitive data cannot be inferred by low-level observers.
     

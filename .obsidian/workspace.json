@@ -13,22 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Case studies/05-Rome incident/02-The Rome incident case study.md",
+                "file": "01-Case studies/00-Readme-Series/02-Air-gapping-principles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-The Rome incident case study"
+              "title": "02-Air-gapping-principles"
             }
           },
           {
-            "id": "497d4b04ac8a9be3",
+            "id": "e8c8e4542d4a7970",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "03-Protocols/01-Heartbeat protocol/First-Principles formalization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First-Principles formalization"
             }
           }
         ],
@@ -192,34 +196,71 @@
       "bases:Create new base": false
     }
   },
+  "floating": {
+    "id": "10f87d8dce046848",
+    "type": "floating",
+    "children": [
+      {
+        "id": "81dbd0006b27c512",
+        "type": "window",
+        "children": [
+          {
+            "id": "61ce7d87251ac90b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "497d4b04ac8a9be3",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1178,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "497d4b04ac8a9be3",
   "lastOpenFiles": [
-    "03-Protocols/09-Recall v2.md",
-    "02-Non anthropomorphic glossary/02-Integrity.md",
-    "01-Case studies/00-Readme-Series/01-Information-flow.md",
+    "03-Protocols/01-Heartbeat protocol/First-Principles formalization.md",
+    "00-Index.md",
+    "02-Non anthropomorphic glossary/01-Confidentiality.md",
+    "02-Non anthropomorphic glossary/00-CIA triad summary.md",
+    "Bell-LaPadula.md",
+    "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/02-Case-study-UTA0388.md",
+    "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/01-Readme-APT-Exploiting-ChatGPT-UTA0388.md",
+    "03-Protocols/04-Custody Auditor.md",
+    "03-Protocols/05-Threshold Manager.md",
+    "01-Case studies/00-Readme-Series/02-Air-gapping-principles.md",
+    "Untitled.base",
+    "human-in-the-loop authorization.md",
     "01-Case studies/00-Readme-Series/05-Human-in-the-loop.md",
+    "01-Case studies/00-Readme-Series/01-Information-flow.md",
+    "01-Case studies/05-Rome incident/02-The Rome incident case study.md",
+    "02-Non anthropomorphic glossary/10-Measurement.md",
+    "02-Non anthropomorphic glossary/04-Coherence.md",
+    "03-Protocols/01-Heartbeat protocol/Symbolism in constraint mapping.md",
+    "03-Protocols/01-Heartbeat protocol/Heart beat protocol - V2.md",
+    "03-Protocols/09-Recall/02-Recall v2.md",
+    "03-Protocols/09-Recall/01-Proto-Recall.md",
+    "03-Protocols/09-Recall",
+    "03-Protocols/03-Hybrid Temporal Aegis Protocol.md",
+    "02-Non anthropomorphic glossary/02-Integrity.md",
     "01-Case studies/05-Rome incident/03-Prior mapping.md",
     "03-Protocols/00-Readme Protocol.md",
     "03-Protocols/02-Temporal awareness protocol.md",
-    "01-Case studies/00-Readme-Series/02-Air-gapping-principles.md",
-    "02-Non anthropomorphic glossary/01-Confidentiality.md",
-    "02-Non anthropomorphic glossary/00-CIA triad summary.md",
     "01-Case studies/05-Rome incident/01-Readme-Rome.md",
-    "01-Case studies/05-Rome incident/02-The Rome incident case study.md",
-    "02-Non anthropomorphic glossary/12-Persona Drift.md",
-    "Change Log.md",
-    "Code of conduct.md",
-    "02-Non anthropomorphic glossary/13-Stability.md",
-    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/04-Risk-Assessment-Framework.md",
-    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/01-Readme-Jack-Clarke.md",
-    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis/01-Context-Evidence.md",
-    "02-Non anthropomorphic glossary/03-Availability.md",
-    "Aegis Protocol.md",
-    "03-Protocols/07-Aegis protocol v1.md",
-    "03-Protocols/06-Editor Lens Probabilistic Coherence Auditor.md",
-    "01-Case studies/00-Readme-Series/03-Distributed-information-network.md",
-    "03-Protocols/01-Heartbeat protocol/First-Principles formalization.md",
-    "01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/01-Readme-APT-Exploiting-ChatGPT-UTA0388.md",
     "Untitled.canvas",
     "01-Case studies/05-Rome incident",
     "03-Protocols/01-Heartbeat protocol",
@@ -230,8 +271,6 @@
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature",
     "LICENSE",
     "03-Protocols",
-    "01-Case studies/03-Replit-incident",
-    "01-Case studies/00-Readme-Series",
-    "02-Non anthropomorphic glossary"
+    "01-Case studies/03-Replit-incident"
   ]
 }

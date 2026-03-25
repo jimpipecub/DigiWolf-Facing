@@ -18,7 +18,7 @@ This summary synthesizes the three core properties of information security. **[[
 
 Confidentiality is a structural constraint on data propagation. It is enforced through **Information-Flow Control (IFC)** and security lattices rather than user discretion.
 
-- **Mechanism:** [[Bell-LaPadula model]] ($No-Read-Up / No-Write-Down$).
+- **Mechanism:** [[Bell-LaPadula]] model ($No-Read-Up / No-Write-Down$).
     
 - **Enforcement:** Static analysis and runtime monitors block unauthorized paths in the control-flow graph.
     

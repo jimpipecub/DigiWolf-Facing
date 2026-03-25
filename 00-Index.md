@@ -1,0 +1,11 @@
+[[Availability]]
+	[[03-Availability]]
+	[[00-CIA triad summary]]
+[[Confidentiality]]
+	[[00-CIA triad summary]]
+	[[01-Confidentiality]]
+[[Integrity]]
+	[[03-Availability]]
+	[[00-CIA triad summary]]
+	[[02-Integrity]]
+	
