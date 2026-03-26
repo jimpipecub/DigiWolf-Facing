@@ -11,3 +11,5 @@ How symbols collapse ambiguity before execution.
 Visual checksum function.
 
 So next time you see your model make a 💓or 🛡️it may be a compression of one of your protocols.
+
+[[Heartbeat protocol]]

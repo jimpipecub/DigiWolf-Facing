@@ -3,7 +3,7 @@
 ## 1. Introduction — Beyond Automation
 Advanced AI systems are powerful tools for automating tasks, discovering patterns, and accelerating operations. However, power without governance is risky. This framework assumes AI as an instrument for tactical execution, embedded within a human-led governance model. Human oversight is not an afterthought; it is a deliberate, structural component of safe, accountable, and resilient systems.
 
-Human oversight preserves strategic intent, ethical guardrails, and final accountability — things automated agents cannot meaningfully provide. This document explains why human-in-the-loop (HIL) is a non-negotiable design principle and offers practical guidance for implementing it.
+Human oversight preserves strategic intent, ethical guardrails, and final accountability — things automated agents cannot meaningfully provide. This document explains why [[Human‑in‑the‑loop]] (HIL) is a non-negotiable design principle and offers practical guidance for implementing it.
 
 ## 2. Related Concepts (brief)
 - Human-in-the-loop (HIL): Humans actively participate in inputs, decisions, or approvals during the system’s operation.
@@ -76,8 +76,9 @@ The principles outlined in this document are not merely theoretical. They are de
     This report showcases the critical need for **Pillar 2: Contextual Judgment**. The analysis involved navigating conflicting public intelligence (reports citing different LLMs) and understanding the strategic implications of a "Negative DIN"—tasks that fall outside the scope of purely automated analysis. The final intelligence product was a direct result of synthesizing AI-generated data with human-led strategic insight.
     *   **Read the full analysis:** `01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388`
 
-* **Case Study: UTA0388 (Hostile APT Group Analysis)** This report's "Information Pipeline Flow" section is a direct demonstration of the HIL model in a complex intelligence operation. The human operator acts as the central orchestrator, performing **Pillar 1: Strategic Command** by selecting specific models for specific roles, and **Pillar 2: Contextual Judgment** by manually abstracting and transferring information between them. The entire process is an exercise in **Pillar 3: Final Accountability**.
-	* See the full operational architecture: `01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/01-Readme-APT-Exploiting-ChatGPT-UTA0388.md`
+* **Case Study: UTA0388 (Hostile APT Group Analysis)**
+	* This report's "Information Pipeline Flow" section is a direct demonstration of the HIL model in a complex intelligence operation. The human operator acts as the central orchestrator, performing **Pillar 1: Strategic Command** by selecting specific models for specific roles, and **Pillar 2: Contextual Judgment** by manually abstracting and transferring information between them. The entire process is an exercise in **Pillar 3: Final Accountability**.
+		* See the full operational architecture: `01-Case studies/02-APT-Exploiting-ChatGPT - UTA0388/01-Readme-APT-Exploiting-ChatGPT-UTA0388.md`
 
 *   **Case Study: Replit Framework Failure**
     This analysis serves as a practical example of the **Section 4: Circuit Breaker Role**. It examines a security incident where automation bias likely contributed to the failure. The key takeaway is the necessity of a human-in-the-loop to question system outputs and intervene *before* a framework vulnerability can be exploited, preventing a cascading failure.

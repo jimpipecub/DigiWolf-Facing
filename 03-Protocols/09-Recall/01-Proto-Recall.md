@@ -1,6 +1,6 @@
 Tool creation - 3/3/2026
 Tool Signature: RAG‑route
-Tool Name: Recall
+Tool Name: [[Recall]]
 Layer: I/O (probabilistic boundary object)
 Purpose: Provide the model with explicit, human‑curated source surfaces relevant to the task.
 Function: Constrain retrieval, reduce hallucination, and anchor the model’s sampling to known materials.

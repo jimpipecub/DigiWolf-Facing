@@ -1,8 +1,8 @@
 ## Jack Clarke AI Safety Statement Case Study
 
-**Synthesis Operator:** Claude (Anthropic) - DIN Node C  
+**Synthesis Operator:** [[Claude]] (Anthropic) - DIN Node C  
 **Session Date:** 2025-10-22  
-**Integration Sources:** Node A (Librarian/Perplexity), Node B (Gemini/Technical)  
+**Integration Sources:** Node A ([[Librarian]]/[[Perplexity]]), Node B ([[Gemini]]/Technical)  
 **Analysis Type:** Multi-model consensus, strategic positioning, framework validation
 
 ---
@@ -90,7 +90,7 @@ Both nodes conclude current paradigm is insufficient:
 - Documented session logs enable behavioral pattern analysis over time
 - No single model becomes trusted "oracle" vulnerable to capability masking
 
-**Validation:** DIN methodology inherently resists single-point evaluation failure by design.
+**Validation:** [[DIN]] methodology inherently resists single-point evaluation failure by design.
 
 ---
 

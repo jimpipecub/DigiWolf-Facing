@@ -25,7 +25,7 @@ Each of these components is defined and measured from first-principles computati
 
 **Definition**: [Stability] (S) quantifies the consistency of an AI system's operational dynamics over a defined temporal interval. It reflects the system's adherence to encoded behavioral patterns and output characteristics under varying input conditions, representing a form of **temporal resonance** and **invariant structure** within its operational manifold.
 
-**Measurement**: Stability is a normalized metric, typically ranging from 0 to 1, where 1 indicates maximal consistency. It is derived from the **relational differentiation** of system states against predefined invariant operational structures, utilizing **information encoding** of system dynamics. 
+**[[10-Measurement|Measurement]]**: Stability is a normalized metric, typically ranging from 0 to 1, where 1 indicates maximal consistency. It is derived from the **relational differentiation** of system states against predefined invariant operational structures, utilizing **information encoding** of system dynamics. 
 
 Sub-metrics include:
 
@@ -91,3 +91,5 @@ Calculation: As defined by the formula $H = S / (1 + A + U)$, the Health Index (
 - **Higher Uncertainty (U)** leads to a lower Health Index, indicating a deficit in **information encoding** or **constraint mapping** regarding the system's state or operational outcomes.
 
 The denominator $(1 + A + U)$ ensures that even with zero anomalies and uncertainty, the detonator is at least 1, preventing division by zero and allowing H to rang from 0 to S (max 1). A higher H value signifies a more robust and functionally integrated AI system, characterized by effective **information encoding** and adherence to **invariant structures**.
+
+[[Heartbeat protocol]]

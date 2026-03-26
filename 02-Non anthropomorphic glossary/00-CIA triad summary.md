@@ -1,4 +1,4 @@
-## Security Foundations: The CIA Triad (DIN-Consistent)
+## Security Foundations: The [[CIA Triad]] (DIN-Consistent)
 
 **Date:** January 17, 2026
 

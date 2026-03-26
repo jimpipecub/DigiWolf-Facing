@@ -1,3 +1,5 @@
+[[Editor-Lens]]
+
 Exists as editor Gem also. Effort in creation of probabilistic tooling.
 
 Tool Signature: coherence lens (structure, narrative strength, flow)

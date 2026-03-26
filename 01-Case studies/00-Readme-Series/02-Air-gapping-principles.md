@@ -1,6 +1,6 @@
 Air gaps as with Cybersecurity is vital with AI as well.
 
-**Why [Air-Gaps] Matters**
+**Why [[Air gaps]] Matters**
 
 - Air-gapping isolates domains (e.g., Financial, Threat Intel, Legal) in dedicated “sealed execution domains” with their **own context scope, baselines, and behavior monitoring**.
     
@@ -22,7 +22,7 @@ Each domain operates independently. The orchestration layer only facilitates **
 
 **Practical Implementation Notes**
 
-- Orchestration layer is the highest-value target—require **[[human-in-the-loop]] authorization, immutable logging, and post-hoc auditability**.
+- Orchestration layer is the highest-value target—require **[[Human-in-the-loop]] authorization, [[Immutable logging]], and post-hoc auditability**.
     
 - Cross-domain flows should use **schema-validated message queues, not direct calls**.
     
@@ -37,4 +37,4 @@ While air-gapping is a mature cybersecurity control, its application to AI orche
 Presses the need in studying Python.
 
 Tool requirement for the deterministic side.
-Orchestration tooling.
+Orchestration tooling for [[DIN]].

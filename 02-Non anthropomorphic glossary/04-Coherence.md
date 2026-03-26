@@ -3,7 +3,7 @@
 ## Term: Coherence
 
 **Non-Anthropomorphic Label:** Constraint-Aligned Behavioral Stability
-**Status:** Draft-Validated (consistent with DIN, Gem roles, and Aegis)
+**Status:** Draft-Validated (consistent with [[DIN]], Gem roles, and [[Aegis protocol]])
 **First Appears:** Implicitly Oct–Nov 2024 → Explicitly Dec 2025
 
 ---

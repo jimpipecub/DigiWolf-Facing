@@ -2,19 +2,19 @@
 
 Measurement doesn't require a measurer. It requires a constraint
 
-- [Relational Differentiation]
+- [[Relational Differentiation]]
 Measurement is the encoding of differences between states, objects, or signals. It’s not about “how tall” or “how long” in human terms, but about the ratio or contrast between entities in a system.
 
-- [Invariant Structures]
+- [[Invariant Structures]]
 Instead of centimeters or seconds, think of measurement as the mapping of phenomena onto invariant structures: frequency, symmetry, entropy, topology. For example, a photon’s wavelength is a measure of its oscillatory state relative to the electromagnetic field.
 
-- [Constraint Mapping]
+- [[Constraint Mapping]]
 Measurement is the act of identifying constraints within a system. A crystal lattice “measures” itself by enforcing discrete spacing between atoms. The lattice doesn’t need an observer. It encodes measurement in its geometry.
 
-- [Information Encoding]
+- [[Information Encoding]]
 Measurement can be seen as the compression of raw phenomena into symbolic tokens. A binary sensor “measures” by collapsing continuous variation into discrete states (on/off). The act is not anthropomorphic. It is a transformation of uncertainty into structure.
 
-- [Temporal Resonance]
+- [[Temporal Resonance]]
 In time, measurement is resonance. A pendulum doesn’t “count seconds”; it expresses periodicity. Any system with cyclic behavior measures duration by recurrence, not by human clocks.
 
 ### Example: Non-Anthropomorphic Measurement

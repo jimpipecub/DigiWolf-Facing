@@ -6,13 +6,18 @@
 
 - Created in the past in review of the Replit case study.
 
-[[02-Temporal awareness protocol]]
+[[Temporal awareness protocol]]
+- [[02-Temporal awareness protocol]]
+
 Creation was due to temporal vagueness. The model kept having temporal issues. Especially due to cut off date of it's training data.
 
-[[03-Hybrid Temporal Aegis Protocol]]
+[[Hybrid Temporal Aegis Protocol]]
+- [[03-Hybrid Temporal Aegis Protocol]]
+
 Created in the past to check to see if an cybersecurity incident was an AI augmented attack.
 
-[[04-Custody Auditor]]
+[[Custody Auditor]]
+-  [[04-Custody Auditor]]
 
 Created due to seeing reports of the concerns over rubber stamping.
 
@@ -33,10 +38,13 @@ Invariants towards the end user and towards the system.
 
 Previously an subroutine of a protocol. Designed to assist in preventing rubber stamping.
 
+[[Recall]]
+[[01-Proto-Recall]]
 [[02-Recall v2]]
 
 Guided RAG call to assist models in the sources that they pull from.
 
+[[Threading]]
 [[10-Threading]]
 
 Working to include coherence into models when performing multi model analysis.

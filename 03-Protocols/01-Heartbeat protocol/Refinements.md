@@ -11,3 +11,5 @@ Receipt: [hash of halt state for audit trail]
 
 Governance value
 A clean handoff not an abrupt stop. The chain of custody maintained through the halt event.
+
+[[Heartbeat protocol]]

@@ -43,7 +43,7 @@ To ensure a seamless argument for the final document, I have synthesized the dis
 
 ---
 
-### 4. Aegis Protocol: Fidelity Control
+### 4. [[Aegis Protocol]]: Fidelity Control
 
 - **Harm Minimization:** The transition language maintains the "Local-Only" constraint as a non-negotiable security feature, ensuring no external exposure of user data was "smoothed over."
     
@@ -51,3 +51,5 @@ To ensure a seamless argument for the final document, I have synthesized the dis
     
 
 ---
+
+[[Heartbeat protocol]]

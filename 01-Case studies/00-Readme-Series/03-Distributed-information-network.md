@@ -1,6 +1,6 @@
 #### **Concept (anchor definition)**
 
-A distributed information framework that leverages multiple AI models and human interpretive layers to generate diverse perspectives while maintaining structural coherence. [DIN] uses **natural [air gaps]**—differences between model architectures, data access, and interpretive styles—to prevent analytical convergence and bias.
+A distributed information framework that leverages multiple AI models and human interpretive layers to generate diverse perspectives while maintaining structural coherence. [[DIN]] uses **natural [[Air gaps]]**—differences between model architectures, data access, and interpretive styles—to prevent analytical convergence and bias.
 
 ---
 
@@ -31,7 +31,7 @@ Each case study demonstrates a **Din orchestration event**, where multiple model
 
 ---
 
-# Blue Team [DIN]: Defensive Intelligence Network
+# Blue Team DIN: Defensive Intelligence Network
 
 ## The Asymmetry Problem
 
@@ -49,7 +49,7 @@ Defenders are still largely manual:
 
 **This asymmetry is unsustainable.**
 
-## Our Solution: Positive [DIN]
+## Our Solution: Positive DIN
 
 A Defensive Intelligence Network built on:
 
@@ -58,7 +58,7 @@ A Defensive Intelligence Network built on:
 - Auditable decision chains
 - Explainable intelligence outputs
 
-### 2. Human-in-the-Loop (HITL)
+### 2. [[Human-in-the-loop]] (HITL)
 - Humans set objectives (SIP queries)
 - AI executes intelligence gathering
 - Humans validate and act on findings
@@ -89,4 +89,4 @@ We commit to:
 To fight an AI-driven threat, you need an AI-powered defense, 
 guided by human strategic oversight."*
 
-— [Manus], on the necessity of Blue Team [DIN]
+— [[Manus]], on the necessity of Blue Team [DIN]

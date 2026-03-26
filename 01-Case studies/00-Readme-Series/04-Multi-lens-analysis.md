@@ -3,23 +3,23 @@ Single-framework analysis creates systematic blind spots in behavioral risks, na
 
 ## Method
 
-- Show technical-pass examples (CIA Triad analysis/config), then narrative-pass examples (pattern/archetype detection).
+- Show technical-pass examples ([[CIA Triad]] analysis/config), then narrative-pass examples (pattern/archetype detection).
     
 - Highlight method of running the same issue through different configs/platforms for deeper insights and prediction.
 
-- Human‑in‑the‑loop literature explicitly notes that adding checkpoints and human reviews increases cost and slows workflows, but it also increases accountability, transparency, and the chance to catch issues before they propagate. That’s exactly what you’re doing when you avoid fully automating information flow between models.kumohq+2​
+- [[Human‑in‑the‑loop]] literature explicitly notes that adding checkpoints and human reviews increases cost and slows workflows, but it also increases accountability, transparency, and the chance to catch issues before they propagate. That’s exactly what you’re doing when you avoid fully automating information flow between models.kumohq+2​
     
-- Recent work even argues for “beneficial friction” or “AI speed bumps” showing that moderate friction can improve accuracy and calibrated trust compared to fully frictionless setups. Your manual weaving and mediation are textbook examples of that pattern.mitsloan.mit+1​
+- Recent work even argues for “beneficial friction” or “AI speed bumps” showing that moderate friction can improve accuracy and calibrated trust compared to fully frictionless setups. The manual weaving and mediation are textbook examples of that pattern.
 	
 - Operational stance: The system is optimized for human sense-making, not maximum throughput.
 	
 - Prioritizing:
     
-    - control over when/what crosses system boundaries,
+    - Control over when/what crosses system boundaries,
         
-    - interpretability (you can see each handoff), and
+    - Interpretability (you can see each handoff), and
         
-    - preservation of your own cognitive engagement, instead of letting an opaque agent mesh silently shape decisions. That matches emerging guidance for responsible HITL AI in higher‑risk or complex settings.openethics+2​
+    - Preservation of your own cognitive engagement, instead of letting an opaque agent mesh silently shape decisions. That matches emerging guidance for responsible HITL AI in higher‑risk or complex settings.openethics+2​
         
 
 Sources include peer-viewed literature, industry practice notes, and model-assisted exploratory analysis
