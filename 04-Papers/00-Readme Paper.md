@@ -1,0 +1,11 @@
+[[01-Bill of Refusals]]
+- [[Samples - Evidence]]
+	- [[01-RC-Evidence]]
+		- Trigger event dealing when trying to fuse protocols.
+- [[00-Bill of Refusals]]
+	- Document that serves negative playbook or invariants against what is not allowed.
+- [[01-RC-Evidence]]
+	- Document that goes deeper into the refusal case.
+- [[02-Symbolism in constraint mapping]]
+	- Note of how symbolism has effects when working on the probabilistic side.
+- [[03-Probabilistic]]

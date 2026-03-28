@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Papers/03-Probabilistic.md",
+                "file": "04-Papers/Laws and regulations/Coming soon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Probabilistic"
+              "title": "Coming soon"
             }
           }
         ],
@@ -123,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Papers/03-Probabilistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03-Probabilistic"
+              "title": "Backlinks"
             }
           },
           {
@@ -214,18 +213,26 @@
   },
   "active": "a5fc99c68dc1242e",
   "lastOpenFiles": [
+    "04-Papers/Laws and regulations/Coming soon.md",
+    "04-Papers/Laws and regulations",
+    "03-Protocols/01-Heartbeat protocol/Samples - 01.md",
+    "00-Index.md",
+    "03-Protocols/00-Readme Protocol.md",
+    "04-Papers/00-Readme Paper.md",
+    "03-Protocols/01-Heartbeat protocol/Heart beat protocol - V2.md",
+    "03-Protocols/01-Heartbeat protocol/Refinements.md",
+    "03-Protocols/03-Hybrid Temporal Aegis Protocol.md",
+    "03-Protocols/04-Custody Auditor.md",
+    "03-Protocols/07-Aegis protocol v1.md",
+    "04-Papers/03-Probabilistic.md",
     "03-Protocols/10-Threading.md",
     "03-Protocols/08-Imp audit.md",
-    "03-Protocols/07-Aegis protocol v1.md",
     "03-Protocols/06-Editor Lens Probabilistic Coherence Auditor.md",
-    "03-Protocols/01-Heartbeat protocol/Heart beat protocol - V2.md",
     "03-Protocols/01-Heartbeat protocol/Heart beat protocol - v1.1.md",
     "03-Protocols/01-Heartbeat protocol/First-Principles formalization.md",
     "03-Protocols/09-Recall/02-Recall v2.md",
-    "04-Papers/03-Probabilistic.md",
     "04-Papers/02-Symbolism in constraint mapping.md",
     "03-Protocols/11-Storming.md",
-    "03-Protocols/00-Readme Protocol.md",
     "02-Non anthropomorphic glossary/10-Measurement.md",
     "04-Papers/01-Bill of Refusals/00-Bill of Refusals.md",
     "04-Papers/01-Bill of Refusals/01-RC‑SycophancyBlock.md",
@@ -233,16 +240,9 @@
     "02-Non anthropomorphic glossary/00-CIA triad summary.md",
     "02-Non anthropomorphic glossary/14-Anomaly.md",
     "02-Non anthropomorphic glossary/13-Stability.md",
-    "02-Non anthropomorphic glossary/16-Discoherence event.md",
-    "00-Index.md",
-    "Change Log.md",
-    "Readme.md",
     "04-Papers/01-Bill of Refusals/Samples - Evidence",
     "04-Papers/01-Bill of Refusals",
-    "04-Papers/00-Readme Paper.md",
     "04-Papers",
-    "02-Non anthropomorphic glossary/12-Persona Drift.md",
-    "02-Non anthropomorphic glossary/11-Persona Projection.md",
     "Untitled.base",
     "03-Protocols/09-Recall",
     "Untitled.canvas",
@@ -251,7 +251,6 @@
     "03-Protocols/01-Heartbeat protocol/Samples",
     "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Risk-Assessment-Framework.png",
     "01-Case studies/Risk-Assessment-Framework.png",
-    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis",
-    "01-Case studies/04-Jack-Clarke-Mysterious-Creature"
+    "01-Case studies/04-Jack-Clarke-Mysterious-Creature/Full Analysis"
   ]
 }
