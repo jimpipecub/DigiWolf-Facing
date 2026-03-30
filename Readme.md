@@ -10,6 +10,11 @@ It demonstrates how to produce professional-grade threat intelligence and manage
 
 **Core Philosophy:** Humans provide strategic oversight; a team of specialized AI agents executes validated tasks.
 
+### Design choice.
+Free tier invariant maintained as positive friction. Primary function is pipeline diversity enforcement across vendors, not cost management. Upgrading to premium tiers must not compromise air gap integrity between DIN nodes. Pipeline independence takes precedence over capability ceiling. Multiple instances of the same premium model is a methodological regression regardless of budget availability.
+
+### Caveat
+The end-user maintenance model is environmentally dependent. It holds in context because of the [[Operator profile]] My framework is not universally safe as a governance assumption. If the framework scales or gets adopted by others, Specifically, the UE_score integrity model and any end-user maintained KPIs assume an operator context where metric inflation produces no strategic benefit. Adopters operating in institutional, commercial, or multi-stakeholder environments will need to substitute or supplement self-reporting with externally verifiable measurement mechanisms.
 ## **Repository Map**
 
 ### **`#case-studies`**

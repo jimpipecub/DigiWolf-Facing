@@ -25,7 +25,7 @@ Each of these components is defined and measured from first-principles computati
 
 **Definition**: [Stability] (S) quantifies the consistency of an AI system's operational dynamics over a defined temporal interval. It reflects the system's adherence to encoded behavioral patterns and output characteristics under varying input conditions, representing a form of **temporal resonance** and **invariant structure** within its operational manifold.
 
-**[[10-Measurement|Measurement]]**: Stability is a normalized metric, typically ranging from 0 to 1, where 1 indicates maximal consistency. It is derived from the **relational differentiation** of system states against predefined invariant operational structures, utilizing **information encoding** of system dynamics. 
+**[[11-Measurement|Measurement]]**: Stability is a normalized metric, typically ranging from 0 to 1, where 1 indicates maximal consistency. It is derived from the **relational differentiation** of system states against predefined invariant operational structures, utilizing **information encoding** of system dynamics. 
 
 Sub-metrics include:
 

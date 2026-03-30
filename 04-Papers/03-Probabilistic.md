@@ -4,13 +4,13 @@ A _probabilistic system_ is a computational or conversational substrate whose ou
 
 Formally:
 
-`[ P: I \rightarrow \Delta(O) ]`
+[ P: I \rightarrow \Delta(O) ]
 
 Where:
 
-- `(I)` = input space
-- `(O)` = output space
-- `(\Delta(O))` = probability distribution over outputs
+- (I) = input space
+- (O) = output space
+- (\Delta(O)) = probability distribution over outputs
 - The system returns **belief-weighted hypotheses**, not a single authoritative state.
 
 ---
