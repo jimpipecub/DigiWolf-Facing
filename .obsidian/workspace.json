@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Papers/06-Probabilistics/02-Bayesian inference.md",
+                "file": "04-Papers/05-Uncertainty Tolerance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-Bayesian inference"
+              "title": "05-Uncertainty Tolerance"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "8386481b94c221da",
   "lastOpenFiles": [
-    "04-Papers/07-Priors/Prior introductions.md",
     "04-Papers/06-Probabilistics/02-Bayesian inference.md",
+    "04-Papers/07-Priors/Prior introductions.md",
     "04-Papers/07-Priors",
     "Change Log.md",
     "04-Papers/02-Symbolism in constraint mapping.md",
