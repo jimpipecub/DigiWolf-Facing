@@ -69,3 +69,32 @@ Also working on the ROME incident case study.
 3/23/2026
 
 Working to create links between the Mds. Added stability to glossary.
+
+3/23-30/206
+
+Been working on links and documentation.
+
+3/31/2026
+
+Planning to dive into probabilistic further.
+
+Concepts to review.
+
+[[Bayesian inference]]
+[[Information theory]]
+[[Stochastic processes]]
+[[Quantum measurement analogs]]
+
+Diving further into the Stability, Anomaly, Uncertainty constraint geometry.
+The Heartbeat health indices.
+The UT × IMB orchestration rules.
+These are intuitions that point toward formal mathematical structures that already exist in probability theory and statistical mechanics.
+
+**Research trajectory suggestsed**
+
+Sensitivity-Driven State Divergence Dynamics has roots in dynamical systems theory — Nelson's Takens Embedding Theorem work is directly relevant.
+The measurement-as-relational-collapse framing connects to quantum measurement theory.
+The constraint geometry connects to convex optimization and feasibility theory.
+Sitting at the edge.
+
+Further direction. Boot.dev Python.

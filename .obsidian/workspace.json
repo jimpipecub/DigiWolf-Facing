@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cddb3a04b6a78b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Case studies/00-Readme-Series/02-Air-gapping-principles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02-Air-gapping-principles"
-            }
-          },
-          {
-            "id": "e8c8e4542d4a7970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Non anthropomorphic glossary/12-Persona Drift.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-Persona Drift"
-            }
-          },
-          {
             "id": "a5fc99c68dc1242e",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "19-Soul"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +184,13 @@
   },
   "active": "a5fc99c68dc1242e",
   "lastOpenFiles": [
-    "04-Papers/04-Assumption Taxonomy.md",
+    "Change Log.md",
+    "04-Papers/06-Uncertainty Tolerance.md",
+    "02-Non anthropomorphic glossary/16-Uncertainty.md",
+    "Readme.md",
+    "Code of conduct.md",
     "02-Non anthropomorphic glossary/19-Soul.md",
+    "04-Papers/04-Assumption Taxonomy.md",
     "04-Papers/05-Assumption Declaration.md",
     "04-Papers/03-Probabilistic.md",
     "03-Protocols/01-Heartbeat protocol/First-Principles formalization.md",
@@ -229,16 +205,11 @@
     "02-Non anthropomorphic glossary/13-Persona Drift.md",
     "02-Non anthropomorphic glossary/14-Stability.md",
     "02-Non anthropomorphic glossary/15-Anomaly.md",
-    "02-Non anthropomorphic glossary/16-Uncertainty.md",
     "02-Non anthropomorphic glossary/17-Discoherence event.md",
     "02-Non anthropomorphic glossary/06-Access Control.md",
     "02-Non anthropomorphic glossary/04-Coherence.md",
     "02-Non anthropomorphic glossary/05-Integrity.md",
     "02-Non anthropomorphic glossary/02-Confidentiality.md",
-    "02-Non anthropomorphic glossary/18-Chaos Theory.md",
-    "Readme.md",
-    "Operator profile.md",
-    "03-Protocols/05-Threshold Manager.md",
     "04-Papers/Laws and regulations",
     "04-Papers/01-Bill of Refusals/Samples - Evidence",
     "04-Papers/01-Bill of Refusals",
