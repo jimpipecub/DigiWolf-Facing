@@ -8,4 +8,4 @@
 	- Document that goes deeper into the refusal case.
 - [[02-Symbolism in constraint mapping]]
 	- Note of how symbolism has effects when working on the probabilistic side.
-- [[03-Probabilistic]]
+- [[01-Probabilistic]]

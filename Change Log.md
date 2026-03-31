@@ -85,14 +85,15 @@ Concepts to review.
 [[Stochastic processes]]
 [[Quantum measurement analogs]]
 
-Diving further into the Stability, Anomaly, Uncertainty constraint geometry.
-The Heartbeat health indices.
-The UT × IMB orchestration rules.
+Diving further into the constraint geometry of concepts I am working upon.
+Indices.
+The Uncertainty Tolerance (UT) × Indeterminacy Mediation Bandwidth (IMB) orchestration rules.
 These are intuitions that point toward formal mathematical structures that already exist in probability theory and statistical mechanics.
 
-**Research trajectory suggestsed**
+**Research trajectory suggested**
 
-Sensitivity-Driven State Divergence Dynamics has roots in dynamical systems theory — Nelson's Takens Embedding Theorem work is directly relevant.
+Sensitivity-Driven State Divergence Dynamics has roots in dynamical systems theory.
+Nelson's Takens Embedding Theorem work is directly relevant.
 The measurement-as-relational-collapse framing connects to quantum measurement theory.
 The constraint geometry connects to convex optimization and feasibility theory.
 Sitting at the edge.
