@@ -41,6 +41,7 @@ Previously an subroutine of a protocol. Designed to assist in preventing rubber 
 [[Recall]]
 [[01-Proto-Recall]]
 [[02-Recall v2]]
+[[03-Recall v3]]
 
 Guided RAG call to assist models in the sources that they pull from.
 

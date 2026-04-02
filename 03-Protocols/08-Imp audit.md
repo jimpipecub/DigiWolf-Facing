@@ -1,6 +1,6 @@
 Tool Signature: Imp
 Tool Name: Imp audit
-Description: Construct that periodically pings the human with 'Spot-Check' challenges asking for reasoning behind a decision made at probablistic intervals in ensuring the owner is still 'present' in the loop.
+Description: Construct that periodically pings the human with 'Spot-Check' challenges asking for reasoning behind a decision made at probabilistic intervals in ensuring the owner is still 'present' in the loop.
 Layer: (I/O)
 Purpose: To introduce stochastic presence‑verification into any reasoning chain. Imp ensures that the human operator remains the authoritative agent by issuing unpredictable, context‑anchored spot‑checks.
 To introduce stochastic presence‑verification into any reasoning chain. Imp ensures that the human operator remains the authoritative agent by issuing unpredictable, context‑anchored spot‑checks.
