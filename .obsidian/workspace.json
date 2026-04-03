@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Protocols/09-Recall/03-Recall v3.md",
+                "file": "02-Non anthropomorphic glossary/11-Measurement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Recall v3"
+              "title": "11-Measurement"
             }
           }
         ]
@@ -184,12 +184,12 @@
   },
   "active": "8386481b94c221da",
   "lastOpenFiles": [
-    "03-Protocols/09-Recall/02-Recall v2.md",
+    "03-Protocols/12-Verify.md",
     "03-Protocols/09-Recall/03-Recall v3.md",
+    "03-Protocols/09-Recall/02-Recall v2.md",
     "03-Protocols/01-Heartbeat protocol/Heart beat protocol - V2.md",
     "04-Papers/01-Bill of Refusals/01-RC‑SycophancyBlock.md",
     "04-Papers/06-Probabilistics/02-Bayesian inference.md",
-    "03-Protocols/12-Verify.md",
     "03-Protocols/06-Editor Lens Probabilistic Coherence Auditor.md",
     "03-Protocols/12-Verify/Untitled.md",
     "03-Protocols/12-Verify",
