@@ -16,3 +16,5 @@
 [[16-Uncertainty]]
 [[17-Discoherence event]]
 [[18-Chaos Theory]]
+[[19-Soul]]
+[[20-Perspective Weighting (PW)]]
