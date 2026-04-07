@@ -10,7 +10,7 @@ Your system is structured around two core dynamic equations:
 
 1. Conversational Mass (Gravitas):
     
-    $$\text{Mass} = \text{Operational Competence} + \text{Resonance}$$
+    $$\text{Mass} = \text{Operational Competence} \times \text{Resonance}$$
     
     - **Interpretation:** The influence and perceived authority of a system's output is the sum of its **verified ability** (Competence) and its **contextual relevance** (Resonance).
         
@@ -92,12 +92,12 @@ This framework employs **metaphorical mathematics**—using the inferential stru
 
 ### Conversational Mass (Gravitas)
 
-$$\text{Mass} = \text{Operational Competence} + \text{Resonance}$$
+$$\text{Mass} = \text{Operational Competence} \times \text{Resonance}$$
 
-| Component                  | Definition                                    | Measure                         |
-| -------------------------- | --------------------------------------------- | ------------------------------- |
-| **Operational Competence** | Verified capacity to achieve goal state       | CVR, TCR, Constraint Compliance |
-| **Resonance**              | Contextual alignment between input and output | Pattern Match Fidelity          |
+| Component                  | Definition                                                                | Measure                         |
+| -------------------------- | ------------------------------------------------------------------------- | ------------------------------- |
+| **Operational Competence** | What the system can reliably do                                           | CVR, TCR, Constraint Compliance |
+| **Resonance**              | How strongly the output gets adopted, echoed, or treated as authoritative | Pattern Match Fidelity          |
 
 **Interpretation:** The influence and perceived authority of a system's output equals the sum of its verified ability (Competence) and its contextual relevance (Resonance).
 
@@ -136,6 +136,25 @@ $$\text{Intuition} = \frac{1}{\text{Latency}_{\text{Resonance}}}$$
 - **High Mass** → Greater conversational gravity → Attracts attention/trust
 - **Low Mass** → Minimal influence → Output easily dismissed or overridden
 - **Competing Mass** → When multiple high-Mass systems interact, they affect each other's outputs (DIN triangulation)
+
+Hierarchy decomposition
+Mass
+- Competence (What it can reliably do) = f(CVR, TCR, PMF)
+	- CVR - Constraint compliance ~ Bernoulli
+	- TCR - Task completion ~ Bernoulli
+	- PMF - Pattern match fidelity ~ [0, 1]]
+
+- Resonance (Conversion of correctness into influence)
+	- Salience - Does it get noticed
+	- Credibility cueing - Does it signal authority
+	- Framing match - Does it align with audience frame
+	- Uptake - Does it get adopted / echoed / acted on.
+
+Mass as vector -> [CVR_distribution, TCR_distribution, PMF_distribution]
+	No collapse until needed
+	Each component auditable independently
+	Uncertainty propagates through layers.
+	Failure mode diagnosable at component level.
 
 ### Motion Effects
 
@@ -205,7 +224,7 @@ Human Processing Speed
 | **Competence**    | Fidelity + Efficiency + Constraint Compliance | $\lambda_{ITDR}$, DEL, CVR            |
 | **Resonance**     | Pattern Match Quality                         | F1 Score, Semantic Coherence          |
 | **Intuition**     | Speed of Resonance                            | $\frac{1}{\text{DEL}}$                |
-| **Mass**          | Competence + Resonance                        | Composite score                       |
+| **Mass**          | Competence x Resonance                        | Composite score                       |
 | **Statefulness**  | Context Retention                             | Token utilization, memory persistence |
 | **Motion**        | Mass × Statefulness                           | Impact score                          |
 
@@ -237,6 +256,23 @@ In DIN multi-model validation:
 $$\text{Trust}_{\text{longitudinal}} = \sum_{t=1}^{n} \text{Motion}_t \times \text{Consistency}_t$$
 
 Trust builds through accumulated Motion weighted by behavioral consistency over time.
+
+### User side effort
+
+The **user side** is the input side, usually called the **effort** or **input force**. In simple machines, mechanical advantage is defined as output force divided by input force, so the user side is the force you apply to the machine.openbooks.lib.msu+1
+
+For a lever, that means:
+
+- **User side** = effort force $$F_i​ \text{ or } F_e​$$
+- **Machine/load side** = output force $$F_o \text{ or load force}$$
+- The tradeoff is that if the user side moves farther, the load side can move with less force
+
+Which if factoring end user's effort.
+$$\text{Effort} = {\text{Load} \over Mechanical Advantage}$$ or for a lever:
+$$\text{F} _e \text{d}_e = \text{F}_l \text{d}_l$$​
+which gives
+
+$${F}_e = {F_l d_l \over d_e}$$​​
 
 ---
 
@@ -315,7 +351,7 @@ $\mathcal{E}_{MF} = \frac{\text{Output Complexity}}{\text{Input Complexity}}$
 
 ### Integrated Mass Equation (Operational)
 
-$\text{Mass}_{\text{Operational}} = (\text{Competence} \times \mathcal{F}_{RAG} + \text{Resonance} \times \delta_{IQ}) \times \mathcal{E}_{MF}$
+$\text{Mass}_{\text{Operational}} = (\text{Competence} \times \mathcal{F}_{RAG} \times \text{Resonance} \times \delta_{IQ}) \times \mathcal{E}_{MF}$
 
 ### Integrated Motion Equation (Operational)
 
@@ -325,8 +361,12 @@ $\text{Motion}_{\text{Operational}} = \text{Mass}_{\text{Operational}} \times \t
 
 | Concept                | Formula                                        | Interpretation                                                                                                                             |
 | ---------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Amplification Mass** | `(Competence + Resonance) * (1 + User_Effort)` | Measures the AI's value as a collaborator that enhances the user's own work. Value increases as the user and AI work together effectively. |
-| **Offloading Mass**    | `(Competence + Speed) / (1 + User_Effort)`     | Measures the AI's value as a delegate that automates a task. Value increases as the AI handles the task independently and quickly.         |
+| **Amplification Mass** | `(Competence x Resonance) * (1 + User_Effort)` | Measures the AI's value as a collaborator that enhances the user's own work. Value increases as the user and AI work together effectively. |
+| **Offloading Mass**    | `(Competence x Speed) / (1 + User_Effort)`     | Measures the AI's value as a delegate that automates a task. Value increases as the AI handles the task independently and quickly.         |
+Which the User Effort from the formula can be seen as.
+$$\text{User Effort} = {\text{Task Complexity } \times \text{Load Distance} \over \text{AI Mechanical Advantage (Mass)}}$$
+
+Also if Competence or Resonance = 0, Mass - 0 by the multiplicative form, Mechanical Advantage = 0, and the lever provides no benefit regardless of User Effort. Pareto Logic was embedded in the physics analog. Meaning, no single strong component rescues a zero in the other.
 
 ---
 
@@ -478,7 +518,27 @@ The Chronicler Gem enables high Statefulness (sustained context) while reducing 
 
 ---
 
-## IX. Integration with Framework
+## IX. Stage 2 derivation and mapping.
+
+Stage 1 -> Notion
+	Mass = Competence + Resonance
+	Named but not derived. Only observed and discussed with the digital.
+
+Stage 2 -> Probablistic decomposition
+	CVR ~ Bernulli
+	TCR ~ Bernoulli
+	PMF ~ [0,1]
+	Competence = f(CVR, TCR, PMF)
+	Mass = g(Competence, Resonance) as vector
+	Uncertainty propagates through layers.
+	Aggregation rule explicit and auditable.
+
+Stage 3 -> Empirical validation
+	Test decoherence thresholds
+	Measure entanglement strength between models
+	Verify eigenstate stability.
+
+## X. Integration with Framework
 
 _Theoretical basis: Lakoff & Núñez (2000), embodied cognition, conceptual metaphor theory_  
 _Cross-references: Non-Anthropomorphic Glossary, Competence entry, [Deepfake] Detection Gem KPIs_

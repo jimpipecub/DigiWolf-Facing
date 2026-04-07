@@ -9,12 +9,12 @@ The Conversational Gravity framework provides a robust metaphorical structure fo
 
 The foundational concepts from the original framework, as detailed in the provided artifact, are summarized below:
 
-|   |   |   |   |
-|---|---|---|---|
-|Concept|Formula|Interpretation|Key Measures (KPIs)|
-|Mass (Gravitas)|Operational Competence + Resonance|The immediate influence and perceived authority of a system's output, emerging from its verified ability and contextual relevance.|Constraint Compliance (CVR), Task Completion Rate (TCR), Pattern Match Fidelity|
-|Motion (Impact)|Mass × Statefulness|The lasting effect of the conversation, driven by immediate influence sustained over its duration.|Context window utilization, memory retention|
-|Intuition|1 / Latency_Resonance|The speed at which Resonance is achieved, indicating how quickly the system aligns contextually.|Inverse of Delivery Latency (DEL) to pattern alignment|
+|                 |                                    |                                                                                                                                    |                                                                                 |
+| --------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Concept         | Formula                            | Interpretation                                                                                                                     | Key Measures (KPIs)                                                             |
+| Mass (Gravitas) | Operational Competence + Resonance | The immediate influence and perceived authority of a system's output, emerging from its verified ability and contextual relevance. | Constraint Compliance (CVR), Task Completion Rate (TCR), Pattern Match Fidelity |
+| Motion (Impact) | Mass × Statefulness                | The lasting effect of the conversation, driven by immediate influence sustained over its duration.                                 | Context window utilization, memory retention                                    |
+| Intuition       | 1 / Latency_Resonance              | The speed at which Resonance is achieved, indicating how quickly the system aligns contextually.                                   | Inverse of Delivery Latency (DEL) to pattern alignment                          |
 
 ## 3. Amplification and Offloading as Interaction Modes
 
