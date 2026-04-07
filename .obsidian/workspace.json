@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Papers/10-Failure states/02-Completion Bias (CB).md",
+                "file": "04-Papers/10-Failure states/01-Pattern-Matching Overshoot (PMO).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-Completion Bias (CB)"
+              "title": "01-Pattern-Matching Overshoot (PMO)"
             }
           }
         ]
@@ -184,8 +184,11 @@
   },
   "active": "8386481b94c221da",
   "lastOpenFiles": [
-    "04-Papers/10-Failure states/01-Pattern-Matching Overshoot (PMO).md",
+    "04-Papers/07-Priors/01-Prior introductions.md",
+    "04-Papers/07-Priors/02-Universal Priors.md",
+    "04-Papers/06-Probabilistics/02-Bayesian inference.md",
     "04-Papers/10-Failure states/02-Completion Bias (CB).md",
+    "04-Papers/10-Failure states/01-Pattern-Matching Overshoot (PMO).md",
     "02-Non anthropomorphic glossary/19-Soul.md",
     "04-Papers/10-Failure states",
     "04-Papers/09-Conversational Gravity/01-Metaphorical Math.md",
@@ -210,9 +213,6 @@
     "04-Papers/04-Assumption Declaration.md",
     "04-Papers/05-Uncertainty Tolerance.md",
     "03-Protocols/02-Temporal awareness protocol.md",
-    "04-Papers/07-Priors/01-Prior introductions.md",
-    "04-Papers/07-Priors/02-Universal Priors.md",
-    "03-Protocols/09-Recall/03-Recall v3.md",
     "03-Protocols/12-Verify",
     "04-Papers/07-Priors",
     "04-Papers/06-Probabilistics",

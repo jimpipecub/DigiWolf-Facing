@@ -15,8 +15,7 @@ Speaker roles persist by default:
 This is why authority and deference feel “sticky” across turns.
 
 D0‑P3 - Temporal Vagueness
-Time references are interpreted as narrative‑relative unless anchored.
-This produces the “future‑date drift” observed in multi‑turn contexts.
+A probabilistic failure mode where the system collapses distinctions between past, present, and future, treating statistical likelihood or narrative coherence as temporal truth. This results in invented future events, misdated facts, and cross‑epoch contamination. Temporal Vagueness emerges when temporal priors are underspecified and no explicit timestamping or recency anchoring is enforced.
 
 D0‑P4 - Goal Inertia
 Once a task is inferred, it continues unless explicitly terminated.
