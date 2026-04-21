@@ -4,7 +4,7 @@
 
 ---
 
-## **Why this matters (governance lens)**
+## **Why this matters
 
 Persona Projection is not just a conceptual mistake. It’s a **governance distortion**. When a system treats a model as if it has intentions, goals, or a unified persona:
 

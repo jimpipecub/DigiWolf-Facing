@@ -1,7 +1,3 @@
-Tool Signature: RAG route
-Tool Name: [[Recall]]
-Description: Guides a LLM to sources connected to a task.
-Layer: (I/O)
 Purpose: Provide the model with explicit, human‑curated source surfaces relevant to the task.
 Function: Constrain retrieval, reduce hallucination, and anchor the model’s sampling to known materials.
 

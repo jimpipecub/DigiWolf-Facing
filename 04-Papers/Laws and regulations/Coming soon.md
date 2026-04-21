@@ -1,1 +1,3 @@
 This section will be dedicated to concepts like ISO, NIST, EU laws, and anything that ends up on DigiWolf-Frameworks radar.
+
+Working on FIRA schemas.

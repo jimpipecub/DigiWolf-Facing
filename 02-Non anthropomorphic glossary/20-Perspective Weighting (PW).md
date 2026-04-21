@@ -11,7 +11,7 @@ Adjust interpretive priorities (constraints, metrics, boundaries, verification t
 2. **No narrative identity** - Outputs evaluated against consistency, not plausibility  
 3. **No implied agency** - Behavior reflects constraint satisfaction, not intention  
 4. **Cross-model portability** - Works independent of training differences  
-5. **Explicit uncertainty preservation** — Does not collapse unknowable causation  
+5. **Explicit uncertainty preservation** - Does not collapse unknowable causation  
   
 **Relationship to Existing Constructs:** (Non anthropomorphic Glossary working on such terms.)  
   

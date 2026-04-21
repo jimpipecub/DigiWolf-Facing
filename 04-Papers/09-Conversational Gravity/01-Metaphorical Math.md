@@ -101,11 +101,37 @@ $$\text{Mass} = \text{Operational Competence} \times \text{Resonance}$$
 
 **Interpretation:** The influence and perceived authority of a system's output equals the sum of its verified ability (Competence) and its contextual relevance (Resonance).
 
+Operational Competence
+- Correctness
+- Domain expertise
+- Tool integration
+- Reasoning reliability
+
+Resonance
+- Relevance to the user's question
+- Framing clarity
+- Contextual alignment
+- Cognitive accessibility
+System with high competence but low resonance produces answers people ignore.
+System with high resonance but low competence produces convincing nonsense.
+
+The equations also imply a failure threshold
+$\text{Mass} \times \text{Statefulness} \text{ > } \text{Epistemic Friction}$
+
+---
+## Resonance
+
+$\text{Resonance} = \text{Relevance} \times \text{Conitive Alignment}$
+
+- Relevance -> topical match
+- Cognitive alignment -> phrasing that the user understands
+Useful on when analyzing persuasive failures.
+
 ---
 
 ### Conversational Motion (Impact)
 
-$$\text{Motion} = \text{Mass} \times \text{Statefulness}$$
+$\text{Motion} = \text{Mass} \times \text{Statefulness}$
 
 | Component        | Definition           | Measure                                      |
 | ---------------- | -------------------- | -------------------------------------------- |
@@ -113,6 +139,14 @@ $$\text{Motion} = \text{Mass} \times \text{Statefulness}$$
 | **Statefulness** | Temporal persistence | Context window utilization, memory retention |
 
 **Interpretation:** The lasting effect of the conversation (Motion) is driven by immediate influence (Mass) sustained over the conversation's duration (Statefulness).
+
+Statefulness includes:
+- Conversation memory
+- Context continuity
+- Persistent tools
+- User-specific adaption
+Without statefulness, even high-quality answers lose momentum.
+For stateless: The conversation never accumulates influence between instances. Resetting between each one.
 
 ---
 
@@ -126,6 +160,22 @@ $$\text{Intuition} = \frac{1}{\text{Latency}_{\text{Resonance}}}$$
 | **Latency_Resonance** | Time to achieve contextual alignment | Processing time to optimal response |
 
 **Interpretation:** High Intuition means the system achieves maximum Resonance almost instantly. A system with high Intuition identifies the First Principle needed to solve the problem without searching through anthropomorphic analogy.
+
+---
+
+## Momentum of influence across turns
+
+$\text{Momentum} = \text{Motion} \times \text{Persistence}$
+
+Persistence represents how long the effects survive across contexts.
+
+| Interaction type | Persistence    |
+| ---------------- | -------------- |
+| Single answer    | Very low       |
+| Conversation     | Moderate       |
+| Saved memory     | High           |
+| Training update  | Extremely High |
+Pushing why model-level updates have strong inertia compared to the other types.
 
 ---
 

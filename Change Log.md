@@ -99,3 +99,7 @@ The constraint geometry connects to convex optimization and feasibility theory.
 Sitting at the edge.
 
 Further direction. Boot.dev Python.
+
+4/20/2025
+
+Checking Fria's with DigiWolf and noting a resonance point between it and Aegis. Planning to craft a invoke capability instead of it being a guard rail.

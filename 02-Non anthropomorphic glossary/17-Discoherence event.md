@@ -60,7 +60,7 @@ This maps cleanly to your DIN/Aegis framing:
 
 ---
 
-# Operational Definition (Governance‑Grade)
+# Operational Definition
 
 A **discoherence event** is:
 
@@ -85,7 +85,7 @@ It is a **signal** that:
 - role boundaries are collapsing
 - distributional stability is degrading
 
-In a DIN architecture, this is a **phase‑shift warning**—a sign that the system is no longer behaving as a stable node in the network.
+In a DIN architecture, this is a **phase‑shift warning** a sign that the system is no longer behaving as a stable node in the network.
 
 ---
 

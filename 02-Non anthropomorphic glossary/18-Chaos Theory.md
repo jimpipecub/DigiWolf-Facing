@@ -10,10 +10,10 @@ Describes systems where **tiny variations in initial conditions produce large, n
 
 ### What this term encodes (structurally, not metaphorically)
 
-- **Sensitivity** — the system’s measurable dependence on initial conditions  
-- **State** — the formal configuration of the system at a given time  
-- **Divergence** — the mathematically quantifiable separation of trajectories  
-- **Dynamics** — the deterministic update rules governing evolution over time  
+- **Sensitivity** - the system’s measurable dependence on initial conditions  
+- **State** - the formal configuration of the system at a given time  
+- **Divergence** - the mathematically quantifiable separation of trajectories  
+- **Dynamics** - the deterministic update rules governing evolution over time  
 
 This reframing “chaos” as a **property of deterministic evolution under high sensitivity**, not a vibe, not disorder, not randomness.
 
