@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Protocols/Gem Ecosystem/03-Librarian/01-Readme-Librarian.md",
+                "file": "03-Protocols/Gem Ecosystem/01-Security/02-Security-V2-Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Readme-Librarian"
+              "title": "02-Security-V2-Instructions"
             }
           }
         ]
@@ -184,14 +184,14 @@
   },
   "active": "8386481b94c221da",
   "lastOpenFiles": [
-    "03-Protocols/Gem Ecosystem/03-Librarian/02-Librarian-v4-instructions.md",
+    "03-Protocols/Gem Ecosystem/01-Security/Sample/News report 11-01-2025.md",
+    "03-Protocols/Gem Ecosystem/01-Security/01-Readme-Security.md",
     "03-Protocols/Gem Ecosystem/03-Librarian/01-Readme-Librarian.md",
+    "03-Protocols/Gem Ecosystem/03-Librarian/02-Librarian-v4-instructions.md",
     "03-Protocols/Gem Ecosystem/02-Mediator/01-Readme-mediator.md",
     "03-Protocols/Gem Ecosystem/03-Librarian",
     "03-Protocols/Gem Ecosystem/02-Mediator/02-Mediator-v2-instructions.md",
-    "03-Protocols/Gem Ecosystem/01-Security/Sample/News report 11-01-2025.md",
     "03-Protocols/Gem Ecosystem/02-Mediator",
-    "03-Protocols/Gem Ecosystem/01-Security/01-Readme-Security.md",
     "03-Protocols/Gem Ecosystem/01-Security/Sample",
     "03-Protocols/Gem Ecosystem/01-Security/Untitled.md",
     "03-Protocols/Gem Ecosystem/01-Security/02-Security-V2-Instructions.md",
