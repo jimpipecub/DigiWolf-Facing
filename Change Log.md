@@ -80,7 +80,7 @@ Planning to dive into probabilistic further.
 
 Concepts to review.
 
-[[Bayesian inference]]
+[[02-Bayesian inference|Bayesian inference]]
 [[Information theory]]
 [[Stochastic processes]]
 [[Quantum measurement analogs]]

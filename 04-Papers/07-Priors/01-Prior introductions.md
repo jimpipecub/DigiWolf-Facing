@@ -25,6 +25,9 @@ D0‑P5 - Cooperative Completion Bias
 Ambiguity is resolved through helpful continuation rather than stopping.
 The model assumes “keep going” unless instructed otherwise.
 
+D0-P6 — First-Frame Anchoring
+The initial problem framing receives disproportionate weight in later reasoning.
+
 As I work with priors have three states when it comes to training data.
 
 Counter

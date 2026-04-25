@@ -10,7 +10,7 @@
 
 ### Executive Overview
 
-This summary synthesizes the three core properties of information security. **[[Confidentiality]], [[Integrity]], and [[Availability]]**—into a unified, non-anthropomorphic framework. By shifting the focus from human intent ([[Trust]], [[Honesty]], [[Effort]]) to system mechanics ([[Flow control]], [[State transitions]], and [[access continuity]]), we establish a verifiable and auditable security posture.
+This summary synthesizes the three core properties of information security. **Confidentiality, [[Integrity]], and [[Availability]]**—into a unified, non-anthropomorphic framework. By shifting the focus from human intent ([[Trust]], [[Honesty]], [[Effort]]) to system mechanics ([[Flow control]], [[State transitions]], and [[access continuity]]), we establish a verifiable and auditable security posture.
 
 ---
 
@@ -53,13 +53,13 @@ Integrity is the property ensuring that system state remains consistent and chan
 
 The triad components are functionally independent but architecturally linked:
 
-| **Property**        | **Primary Failure Mode**      | **Secondary Impact**          |
-| ------------------- | ----------------------------- | ----------------------------- |
-| **Confidentiality** | Unauthorized Information Flow | Data Exfiltration             |
-| **Integrity**       | Unauthorized State Transition | System Corruption / Poisoning |
-| **Availability**    | Access Continuity Breach      | Service Denial / Time-out     |
+| **Property**                                | **Primary Failure Mode**      | **Secondary Impact**          |
+| ------------------------------------------- | ----------------------------- | ----------------------------- |
+| **[[02-Confidentiality\|Confidentiality]]** | Unauthorized Information Flow | Data Exfiltration             |
+| **[[05-Integrity\|Integrity]]**             | Unauthorized State Transition | System Corruption / Poisoning |
+| **[[03-Availability\|Availability]]**       | Access Continuity Breach      | Service Denial / Time-out     |
 
-**[[Aegis protocol]] Note:** A system may fail one property while maintaining the others (e.g., an encrypted database that is offline maintains confidentiality but lacks availability). Security governance requires the simultaneous verification of all three as distinct system invariants.
+**[[07-Aegis protocol v1|Aegis protocol]] Note:** A system may fail one property while maintaining the others (e.g., an encrypted database that is offline maintains confidentiality but lacks availability). Security governance requires the simultaneous verification of all three as distinct system invariants.
 
 ---
 

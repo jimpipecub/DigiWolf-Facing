@@ -18,3 +18,8 @@
 [[18-Chaos Theory]]
 [[19-Soul]]
 [[20-Perspective Weighting (PW)]]
+[[21-Ethical]]
+[[22-Evaluation Isolation Boundary (EIB)]]
+[[23-Evaluation leakage]]
+[[24-Helpful]]
+[[25-Honest]]

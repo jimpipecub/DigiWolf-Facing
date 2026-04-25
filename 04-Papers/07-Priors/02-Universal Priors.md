@@ -171,8 +171,6 @@ Status: [Accept]
 When asked to explain its own behavior, the model generates synthetic ontologies (like D0) to make implicit tendencies legible to humans.
 Status [Monitor]
 
-This is exactly the phenomenon you identified.
-
 ## **30. Drift‑Minimization Under Structure**
 
 When a structure is present, the model tries to minimize deviation from it.
