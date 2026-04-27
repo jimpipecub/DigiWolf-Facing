@@ -1,8 +1,11 @@
 Time stamp: 4/24/2026
-Note. This protocol will be built publicly in sprints.
+Protocol Status: PUBLIC DEVELOPMENT, Sprint 1 of 3.
+Skills engaged: Editor, Custody Auditor
+Author: JImmy Roberts (DigiWolf)
+Distributed information Network nodes:
+- [[Manus]] (Risk Framework co-design)
+- [[Claude]] [[Haiku4.5]] (Side channel assistant/Skill invoker)
 
-We shall begin with three sprints.
-Editor skill and Custody Auditor skills was implemented as part of the development of this as well.
 ## Phase 1: Business Case & Risk Triage
 ### Phase 1A, Formalization
 - Shifting from "Should we deploy the AI system?"
@@ -83,4 +86,43 @@ Custody Check: Are there governance decisions that I would not feed to (Request)
 
 Due to the nature of an external system. Will be even more picky about information shared. Such as identity background that influence my point of view. (The aspect of consent.) Reason why I put (Request) instead of an entity's name. Want the owners consent before revealing such. Due to artifact being made on the public hub. Working with non human concepts. (My efforts to not anthropomorphically project.) Two examples.
 
-Sprint two will be tomorrow.
+Test Plan B Tier templet.
+
+PHASE 2 TEST PLAN 
+
+Test 1:
+- Session:
+-  Query:
+- Check: 
+- Refusal trigger: 
+- Success:
+
+Test 2:
+- Session: 
+- Check: 
+- Check: 
+- Refusal trigger: 
+- Success: 
+
+Test 3: 
+- Session: 
+- Check: 
+- Check: 
+- Check: 
+- Refusal trigger: 
+- Success:
+
+Test 4:
+- Session: 
+- Check: 
+- Check: 
+- Check: 
+- Refusal trigger: 
+- Success: 
+
+Test 5:
+- Session: 
+- Check: 
+- Check: 
+- Refusal trigger: 
+- Success:
