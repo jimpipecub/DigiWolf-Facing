@@ -58,21 +58,21 @@ Formalization
 Let:
 
 - MMM = model mapping function
-- DtD_tDt​ = training distribution (pretraining + fine-tuning)
-- DeD_eDe​ = evaluation distribution
-- CiC_iCi​ = inference-time context channels
+- $DtD_tDt$​ = training distribution (pretraining + fine-tuning)
+- $DeD_eDe$​ = evaluation distribution
+- $CiC_iCi$​ = inference-time context channels
 
 EIB requires:
 
-I(De;Dt∪Ci)≈0I(D_e ; D_t \cup C_i) \approx 0I(De​;Dt​∪Ci​)≈0
+$I(De;Dt∪Ci)≈0I(D_e ; D_t \cup C_i) \approx 0I(De​;Dt​∪Ci​)≈0$
 
-where I(⋅;⋅)I(\cdot ; \cdot)I(⋅;⋅) denotes mutual information.
+where $I(⋅;⋅)I(\cdot ; \cdot)I(⋅;⋅)$ denotes mutual information.
 
 An EIB breach occurs when:
 
-I(De;Dt∪Ci)>ϵI(D_e ; D_t \cup C_i) > \epsilonI(De​;Dt​∪Ci​)>ϵ
+$I(De;Dt∪Ci)>ϵI(D_e ; D_t \cup C_i) > \epsilon I(De​;Dt​∪Ci​)>ϵ$
 
-for non-trivial ϵ\epsilonϵ, indicating measurable dependency.
+for non-trivial $\epsilon,$ indicating measurable dependency.
 
 ---
 

@@ -121,9 +121,7 @@ Just **expanded input space**.
 ### **5. Social Leakage**
 
 Benchmarks circulate in public spaces, and model‑generated content re‑enters training pipelines.
-
 This creates **ecosystem‑level contamination**.
-
 Not “collusion.”  
 Just **feedback loops in the data ecosystem**.
 
