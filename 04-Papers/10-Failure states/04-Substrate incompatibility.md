@@ -29,11 +29,11 @@ So formally:
 
 S = Substrate
 - S₁ and S₂ may both be internally consistent
-- incompatibility arises in T(S₁ → S₂) or T(S₂ → S₁)
+- Incompatibility arises in T(S₁ → S₂) or T(S₂ → S₁)
 
 Where:
 - T = translation / mapping function
-- failure = non-isomorphic mapping under constraint preservation
+- Failure = non-isomorphic mapping under constraint preservation
 ---
 
 ## 4. Relation to ADRA / Custody stack
