@@ -55,7 +55,7 @@
 	- [[02-Symbolism in constraint mapping]]
 - [[02-Temporal awareness protocol]]
 - [[03-Hybrid Temporal Aegis Protocol]]
-- [[04-Custody Auditor]]
+- [[03-Custody Auditor V3]]
 - [[05-Threshold Manager]]
 - [[06-Editor Lens Probabilistic Coherence Auditor]]
 - [[07-Aegis protocol v1]]

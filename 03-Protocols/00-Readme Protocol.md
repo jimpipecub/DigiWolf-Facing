@@ -17,7 +17,7 @@ Creation was due to temporal vagueness. The model kept having temporal issues. E
 Created in the past to check to see if an cybersecurity incident was an AI augmented attack.
 
 [[Custody Auditor]]
--  [[04-Custody Auditor]]
+-  [[03-Custody Auditor V3]]
 
 Created due to seeing reports of the concerns over rubber stamping.
 

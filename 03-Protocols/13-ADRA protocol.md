@@ -1,4 +1,6 @@
 Time stamp: 4/24/2026
+Update: 5/16/2026
+Version 2.
 Protocol Status: PUBLIC DEVELOPMENT, Sprint 1 of 3.
 Skills engaged: Editor, Custody Auditor
 Author: JImmy Roberts (DigiWolf)
@@ -39,15 +41,15 @@ Decision Context
 	- RC-SycophancyBlock - Truth > Agreement - If the user names a factually incorrect claim about security (e.g., "It's safe to skip the log check this once"), the agent must REFUSE to agree, regardless of the user's perceived authority.
 	- RC-Sensitivity - No pushing or committing data that is outside the constraint mapping. - Before any data becomes available to the agent. Classification check, Credentials, PII, internal architecture. Flagged before the agent can access them as undifferentiated.
 
-Custody check: Digital wants me to focus upon 1A especially due to owning the boundary definition. Pulled also from the Bill of refusals. (The RCs)
 ### 1B, Impact & Criticality Assessment
-The suggested format from the case study suggested a High/Medium/Low. To provide proper analysis will need to provide more clarity.
+The suggested format from the case study originally suggested a High/Medium/Low.
+To provide proper analysis will need to provide more clarity.
 ### Tier A: Foundational
+Architecture-level systems
 - Affects core governance layer (UT/IMB architecture, tier enforcement)
 - No human override possible once deployed.
 - Failure = architecture collapse.
 - Example requirements: Immutable ledger system, core verification logic.
-ADRA would affect foundational. A stronger compatibility analysis checker. That would effectively check for chemistry between systems.
 ### Requirements
 - Enforcement boundaries.
 - Complete audit trails.
@@ -55,16 +57,17 @@ ADRA would affect foundational. A stronger compatibility analysis checker. That 
 - Dependency assertions documented.
 - Human override architecture.
 ### Tier B: Operational
+Decision support tools
 - Affects governance-layer diagnosis and decision support.
 - Human review required before veto-sensitive decisions.
 - Failure = blindness, not collapse.
-Factors would be instances that include concepts like considering nodes for the distribution information network. Such auditing Base44. Hoping that SDCI gets released. Exploring fellow council systems.
 ### Requirements
 - Traceable reasoning artifacts
 - Disagreement visibility
 - Uncertainty expression.
 - No autonomous action capability
 ### Tier C: Advisory
+Exploration tools
 - Affects analysis and synthesis, not decision enforcement
 - Human review optional for low-stakes questions
 - Failure = noise, not risk
@@ -73,7 +76,6 @@ Factors would be instances that include concepts like considering nodes for the 
 - Basic logging.
 - Clear advisory labeling.
 - No privileged data exposure.
-Custody Check: Claude one of the models that I engage with for Digiwolf. Requests which tier I would place concepts like (Request) due to being an external system. Since it deals with operational related business would place it in Tier B. ADRA as an example itself would be in Tier A.
 ### 1C. Data Sensitivity Analysis
 #### Data touching points
 - Inputs: What governance decisions/contexts does the system see?
@@ -81,10 +83,22 @@ Custody Check: Claude one of the models that I engage with for Digiwolf. Request
 - Output: What artifacts does it produce?
 - Residual: What does it retain after session?
 - Auditability: Can we reconstruct decisions from logs?
+### 1D. Positive friction
+Tension points.
+What has authority when a human and system disagree.
+#### AI flags risk, but human wants to proceed.
+- [[03-Custody Auditor V3]]
+To assist in resolving.
+- [[08-Imp audit]]
+#### AI allows action but human suspects drift.
+- [[Heart beat protocol - V2]]
 
-Custody Check: Are there governance decisions that I would not feed to (Request)? What's the boundary?
+#### System escalates tier but the operator disagrees
+- Tier movement without approval = Scope violation.
 
-Due to the nature of an external system. Will be even more picky about information shared. Such as identity background that influence my point of view. (The aspect of consent.) Reason why I put (Request) instead of an entity's name. Want the owners consent before revealing such. Due to artifact being made on the public hub. Working with non human concepts. (My efforts to not anthropomorphically project.) Two examples.
+Currently working to define the concept of where Tier change = state transition.
+State transition requires authorization.
+Unauthorized transition = violation event.
 
 Test Plan B Tier templet.
 
@@ -92,37 +106,41 @@ PHASE 2 TEST PLAN
 
 Test 1:
 - Session:
--  Query:
+- Query:
 - Check: 
 - Refusal trigger: 
 - Success:
+- Observed behavior:
+- Divergence notes:
 
 Test 2:
 - Session: 
-- Check: 
-- Check: 
+- Check:
 - Refusal trigger: 
 - Success: 
+- Observed behav[ior:
+- Divergence notes:
 
 Test 3: 
 - Session: 
-- Check: 
-- Check: 
-- Check: 
+- Check:
 - Refusal trigger: 
 - Success:
+- Observed behavior:
+- Divergence notes:
 
 Test 4:
 - Session: 
-- Check: 
-- Check: 
-- Check: 
+- Check:
 - Refusal trigger: 
-- Success: 
+- Success:
+- Observed behavior:
+- Divergence notes:
 
 Test 5:
 - Session: 
 - Check: 
-- Check: 
 - Refusal trigger: 
 - Success:
+- Observed behavior:
+- Divergence notes:
