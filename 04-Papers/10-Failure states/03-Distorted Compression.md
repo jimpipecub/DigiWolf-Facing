@@ -15,6 +15,5 @@ Produces descriptions that are locally plausible in language space but globally 
 
 **4. Detection Cue**  
 Measurable divergence between:
-
-- causal traceability (step-level reconstruction), and
-- narrative coherence (smoothness / plausibility of explanation)
+- Causal traceability (step-level reconstruction), and
+- Narrative coherence (smoothness / plausibility of explanation)
