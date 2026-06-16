@@ -103,3 +103,7 @@ Further direction. Boot.dev Python.
 4/20/2025
 
 Checking Fria's with DigiWolf and noting a resonance point between it and Aegis. Planning to craft a invoke capability instead of it being a guard rail.
+
+5/27/2026
+
+Request to observe a repo. Due to learning programming more. Will be placing scope constraints on myself also to ensure quality analysis.

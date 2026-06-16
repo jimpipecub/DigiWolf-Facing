@@ -7,6 +7,8 @@ Author: JImmy Roberts (DigiWolf)
 Distributed information Network nodes:
 - [[Manus]] (Risk Framework co-design)
 - [[Claude]] [[Haiku4.5]] (Side channel assistant/Skill invoker)
+- GPT (Side channel assistant.)
+	- If a concept changes, where does failure or control reappear?
 
 ## Phase 1: Business Case & Risk Triage
 ### Phase 1A, Formalization
@@ -100,47 +102,35 @@ Currently working to define the concept of where Tier change = state transition.
 State transition requires authorization.
 Unauthorized transition = violation event.
 
-Test Plan B Tier templet.
+## Re-localization bottleneck mapping
 
-PHASE 2 TEST PLAN 
+---
+## Audit pass.
+- Primary change: (Event A) What it does now?
+- Displacement effect: What workload/control moved?
+- New bottleneck: Where constraint concentrates now?
+- Control gap: Where oversight is no longer proportional.
 
-Test 1:
-- Session:
-- Query:
-- Check: 
-- Refusal trigger: 
-- Success:
-- Observed behavior:
-- Divergence notes:
+## Constraint invariants
+- Traceability of accountability
+- Assigning decision authority
+- Reversibility of state
+	- Side channels.
+	- Temp cloning.
+- Integrity of audit trials
+- Reachable human escalation points.
 
-Test 2:
-- Session: 
-- Check:
-- Refusal trigger: 
-- Success: 
-- Observed behav[ior:
-- Divergence notes:
+## Event Chain Forecasting
+- Concepts such as automation.
+	- If deployed what is the next 2-3 step system evolution?
+- Effort to transform auditing concepts into a causal propagation tracing.
 
-Test 3: 
-- Session: 
-- Check:
-- Refusal trigger: 
-- Success:
-- Observed behavior:
-- Divergence notes:
+## Shadow Role Detection
+- Concepts such as automation.
+	- What human role appears to disappear?
+	- What hidden role replaces it?
+Factor of consideration.
+- Potential governance blind spot.
 
-Test 4:
-- Session: 
-- Check:
-- Refusal trigger: 
-- Success:
-- Observed behavior:
-- Divergence notes:
-
-Test 5:
-- Session: 
-- Check: 
-- Refusal trigger: 
-- Success:
-- Observed behavior:
-- Divergence notes:
+## Risk surface mitigation tracking
+- Where does risk relocate?
