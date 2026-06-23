@@ -1,5 +1,3 @@
-## **2. Contextual Assumptions**
-
 **Definition**  
 Assumptions that hold in the **designer’s local environment** but may not hold elsewhere.
 

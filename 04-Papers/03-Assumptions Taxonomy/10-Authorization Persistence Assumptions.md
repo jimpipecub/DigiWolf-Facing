@@ -1,5 +1,3 @@
-# Authority Assumption: A Governance‑Grade Taxonomy
-
 **Core definition:**  
 Authority assumption is **the set of preconditions under which an agent treats an input as having elevated decision‑weight**, independent of personality, status, or human-like hierarchy. It is a _structural inference_, not a social one.
 
