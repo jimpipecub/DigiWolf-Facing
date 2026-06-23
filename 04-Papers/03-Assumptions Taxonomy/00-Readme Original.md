@@ -1,5 +1,7 @@
 ## **Assumption Taxonomy**
 
+## Update: Moved to it's own directory.
+
 **Definition**  
 A structured classification of the different _types_ of assumptions that appear in system design, reasoning surfaces, and governance architectures. Each category identifies a distinct failure mode, portability risk, or audit requirement.
 
@@ -7,7 +9,7 @@ This taxonomy prevents category collapse by separating assumptions according to 
 
 ---
 
-## **1. Structural Assumptions**
+## 1. Structural Assumptions
 
 **Definition**  
 Assumptions about the _architecture itself_. The invariants, interfaces, and load‑bearing relationships.
@@ -27,7 +29,6 @@ Assumptions about the _architecture itself_. The invariants, interfaces, and loa
 Structural assumptions require **explicit declaration** and **versioning**, because they anchor the system’s stance geometry.
 
 ---
-
 ## **2. Contextual Assumptions**
 
 **Definition**  

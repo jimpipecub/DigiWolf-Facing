@@ -1,4 +1,5 @@
 Human readable
+
 Tool Signature: Cognitive load regulator
 Tool Name: Custody Auditor
 Description: Ensures human presence and promotes chain of custody.

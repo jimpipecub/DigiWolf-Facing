@@ -1,16 +1,46 @@
+Update 6/22/2026
+
 Identity
 - Independent cybersecurity/information-assurance researcher (2025-present)
 
 Environment
 - Operates with a lightweight, home-lab with a focus on AI safety and defensive security.
+- Compute constraints
+	- OS
+		- Windows
+		- Mint
+- Tooling constraints
+	- Free or low-cost tools.
+	- Note taking
+		- Obsidian
+	- Storage
+		- GitHub
+	- Programming environment
+		- Mint Terminal
+- Budget constraints
+	- Free tier invariant.
+	- Exceptions
+		- Boots.dev
+Security Posture
+- Defensive only - Shields only.
+- No offensive workflows
 
-Scope
-- Prefers free or low-cost tools.
-- No enterprise tenant or corporate IT context.
-- My focus is on shields not sword focused blue teaming.
-- No institutional authority claims.
-- Work out of Obsidian and GitHub for notes, docs, and protocols.
-- Prefer outputs that are easy to version-control, hash, and drop into markdown repos or PKM vaults."
+Authority Scope
+- Personal lab only
+- No enterprise authority
+
+Workflow Style
+- Markdown first
+- Version-controlled protocols
+
+Risk Model
+- IA-focused
+- Auditability priority
+- Safe disclosure
+
+Capability Boundaries
+- No paid APIs assumed
+- No cloud tenancy assumed
 
 Reason for addition.
 

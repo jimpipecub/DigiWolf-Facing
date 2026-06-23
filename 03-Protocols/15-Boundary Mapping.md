@@ -77,6 +77,10 @@ Limit:
 	Does not govern application policy or access control.
 	Reviewer cannot validate production behavior without access to operational data.
 
+Failure:
+	Authority Drift:
+			A bounded authorization becomes generalized because its qualifying conditions are compressed, forgotten, or no longer verified.
+
 ## Evidence
 
 Validated: Concepts confirmed and discovered.
